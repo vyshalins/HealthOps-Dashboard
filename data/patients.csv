@@ -1,195 +1,668 @@
 patient_id,name,age,gender,dept,doctor_id,arrival_time,status,waiting_time_mins,triage_level,reason
-P1000,Melinda Harmon,8,Male,Orthopedics,D109,2025-10-18 15:45:00,in_consultation,3,Low,Wind gas ground show list.
-P1001,Sherry Peterson,12,Male,Cardiology,D104,2025-10-18 10:11:00,waiting,141,Low,Detail strategy three remain.
+P1000,Melinda Harmon,8,Male,Orthopedics,D109,2025-10-18 15:45:00,discharged,5,Low,Wind gas ground show list.
+P1001,Sherry Peterson,12,Male,Cardiology,D104,2025-10-18 10:11:00,discharged,7,Low,Detail strategy three remain.
 P1002,Craig Nguyen,47,Male,Pediatrics,D102,2025-10-18 13:45:00,discharged,5,Medium,Skin throw tell.
 P1003,Mia Barker,1,Female,Orthopedics,D103,2025-10-18 09:40:00,discharged,14,Low,History involve green or.
-P1004,Chad Salinas,12,Female,General Medicine,D101,2025-10-18 10:54:00,in_consultation,70,Medium,His despite popular necessary side.
+P1004,Chad Salinas,12,Female,General Medicine,D101,2025-10-18 10:54:00,discharged,0,Medium,His despite popular necessary side.
 P1005,Kenneth Hunt,75,Female,Orthopedics,D109,2025-10-18 13:46:00,discharged,29,Low,Spring ahead product media.
 P1006,Lisa Hensley,87,Female,Orthopedics,D109,2025-10-18 15:39:00,discharged,8,Low,Audience hold.
-P1007,Jamie May,72,Female,Pediatrics,D106,2025-10-18 13:24:00,in_consultation,34,Medium,Future shoulder coach story.
+P1007,Jamie May,72,Female,Pediatrics,D106,2025-10-18 13:24:00,discharged,6,Medium,Future shoulder coach story.
 P1008,Joseph Fitzpatrick,6,Female,Pediatrics,D102,2025-10-18 13:53:00,discharged,5,Low,Carry budget plant capital.
 P1009,Victoria Jimenez,80,Female,Pediatrics,D106,2025-10-18 15:17:00,discharged,8,Low,Mr especially bed.
 P1010,Kimberly Espinoza,77,Female,Orthopedics,D109,2025-10-18 10:58:00,discharged,1,Medium,Debate center reason.
 P1011,Brenda Castro,0,Male,Pediatrics,D100,2025-10-18 14:42:00,discharged,5,Low,Us wish health seat protect.
-P1012,Mr. Ronald Acosta PhD,80,Female,Pediatrics,D100,2025-10-18 08:18:00,waiting,67,Medium,Manager test gun pull treatment.
+P1012,Mr. Ronald Acosta PhD,80,Female,Pediatrics,D100,2025-10-18 08:18:00,discharged,9,Medium,Manager test gun pull treatment.
 P1013,Kara Hill,16,Female,Pediatrics,D106,2025-10-18 10:45:00,discharged,1,High,Skin pay red.
-P1014,Kristen Vang,54,Female,Pediatrics,D102,2025-10-18 14:51:00,in_consultation,39,Low,Reach road rich fund other.
+P1014,Kristen Vang,54,Female,Pediatrics,D102,2025-10-18 14:51:00,discharged,6,Low,Reach road rich fund other.
 P1015,Beth Howard,39,Male,General Medicine,D101,2025-10-18 15:32:00,discharged,3,Medium,Growth agreement not she brother.
 P1016,Andrew Johnson,81,Male,Pediatrics,D106,2025-10-18 15:15:00,discharged,4,Low,Deal experience political especially scene.
 P1017,John Taylor,1,Female,Orthopedics,D103,2025-10-18 11:17:00,discharged,4,Medium,Mind appear score long throughout.
 P1018,Loretta Scott,11,Male,Neurology,D105,2025-10-18 08:07:00,discharged,1,Medium,Point daughter as fast might.
 P1019,Pamela Carroll,67,Female,Orthopedics,D108,2025-10-18 09:50:00,discharged,2,Medium,Several former population stuff walk.
 P1020,Matthew Newton,23,Female,Cardiology,D104,2025-10-18 14:44:00,discharged,5,Low,Young fear fact entire car.
-P1021,Rebecca Ferguson,59,Female,Orthopedics,D108,2025-10-18 11:57:00,in_consultation,65,Medium,Buy candidate rise leader.
-P1022,Dalton Aguilar,27,Female,Cardiology,D104,2025-10-18 15:44:00,in_consultation,9,Low,Enough century song bar floor.
+P1021,Rebecca Ferguson,59,Female,Orthopedics,D108,2025-10-18 11:57:00,discharged,8,Medium,Buy candidate rise leader.
+P1022,Dalton Aguilar,27,Female,Cardiology,D104,2025-10-18 15:44:00,discharged,8,Low,Enough century song bar floor.
 P1023,Vicki Johnson,84,Male,Pediatrics,D102,2025-10-18 13:10:00,discharged,4,Low,Security series way think.
 P1024,Stephanie Robinson,48,Female,Neurology,D105,2025-10-18 08:10:00,discharged,1,High,War improve cell film show.
-P1025,Gina Thomas,5,Female,Pediatrics,D106,2025-10-18 08:11:00,waiting,110,Low,Eat cost score compare.
-P1026,Austin White,47,Male,Cardiology,D107,2025-10-18 12:11:00,waiting,133,Low,Discover head us then provide.
-P1027,Teresa Davis,23,Female,Cardiology,D104,2025-10-18 08:55:00,waiting,127,Medium,Tax industry scientist building.
-P1028,Monica Lee,0,Female,Orthopedics,D103,2025-10-18 11:18:00,in_consultation,90,Medium,Culture both avoid.
+P1025,Gina Thomas,5,Female,Pediatrics,D106,2025-10-18 08:11:00,discharged,5,Low,Eat cost score compare.
+P1026,Austin White,47,Male,Cardiology,D107,2025-10-18 12:11:00,discharged,5,Low,Discover head us then provide.
+P1027,Teresa Davis,23,Female,Cardiology,D104,2025-10-18 08:55:00,discharged,2,Medium,Tax industry scientist building.
+P1028,Monica Lee,0,Female,Orthopedics,D103,2025-10-18 11:18:00,discharged,9,Medium,Culture both avoid.
 P1029,Emily Castro,14,Male,Cardiology,D107,2025-10-18 14:25:00,discharged,0,Low,Character writer entire attack.
-P1030,Molly Martinez,3,Male,Neurology,D105,2025-10-18 14:59:00,waiting,66,Low,Newspaper body.
-P1031,Stephen Walsh,30,Male,General Medicine,D101,2025-10-18 14:59:00,in_consultation,73,Low,Probably institution dark note.
-P1032,Thomas Christensen,76,Male,General Medicine,D101,2025-10-18 11:02:00,in_consultation,74,Low,Agreement walk certainly think must.
-P1033,Jimmy Mays,65,Female,Cardiology,D107,2025-10-18 10:55:00,in_consultation,83,Low,By media firm to.
+P1030,Molly Martinez,3,Male,Neurology,D105,2025-10-18 14:59:00,discharged,10,Low,Newspaper body.
+P1031,Stephen Walsh,30,Male,General Medicine,D101,2025-10-18 14:59:00,discharged,3,Low,Probably institution dark note.
+P1032,Thomas Christensen,76,Male,General Medicine,D101,2025-10-18 11:02:00,discharged,5,Low,Agreement walk certainly think must.
+P1033,Jimmy Mays,65,Female,Cardiology,D107,2025-10-18 10:55:00,discharged,2,Low,By media firm to.
 P1034,Carrie Smith,61,Female,Cardiology,D104,2025-10-18 08:30:00,discharged,17,High,Order seek.
-P1035,Nathan Cameron,17,Female,Pediatrics,D100,2025-10-18 15:50:00,waiting,121,Low,Manager to almost.
-P1036,Bryan Ramos,18,Male,Cardiology,D104,2025-10-18 08:56:00,in_consultation,36,High,Today land already travel.
-P1037,Lacey Hall,38,Male,Pediatrics,D106,2025-10-18 12:13:00,in_consultation,97,Low,About partner attention score little.
-P1038,Beth Gonzalez,12,Female,Neurology,D105,2025-10-18 11:11:00,in_consultation,103,Low,Mean notice buy.
-P1039,Joseph Gibson,48,Female,Pediatrics,D100,2025-10-18 09:08:00,waiting,112,Medium,Would public style inside size.
-P1040,Laura Buchanan,86,Male,Pediatrics,D106,2025-10-18 13:17:00,waiting,123,Low,Picture customer ok bad.
+P1035,Nathan Cameron,17,Female,Pediatrics,D100,2025-10-18 15:50:00,discharged,1,Low,Manager to almost.
+P1036,Bryan Ramos,18,Male,Cardiology,D104,2025-10-18 08:56:00,discharged,7,High,Today land already travel.
+P1037,Lacey Hall,38,Male,Pediatrics,D106,2025-10-18 12:13:00,discharged,1,Low,About partner attention score little.
+P1038,Beth Gonzalez,12,Female,Neurology,D105,2025-10-18 11:11:00,discharged,3,Low,Mean notice buy.
+P1039,Joseph Gibson,48,Female,Pediatrics,D100,2025-10-18 09:08:00,in_consultation,522,Medium,Would public style inside size.
+P1040,Laura Buchanan,86,Male,Pediatrics,D106,2025-10-18 13:17:00,waiting,567,Low,Picture customer ok bad.
 P1041,John Carpenter,49,Female,Pediatrics,D106,2025-10-18 15:12:00,discharged,9,High,Country or Democrat reality painting.
-P1042,Heather Alvarez,47,Male,Orthopedics,D103,2025-10-18 15:13:00,in_consultation,91,Medium,Total step down.
-P1043,Larry Hanson,80,Female,General Medicine,D101,2025-10-18 10:54:00,waiting,94,Low,Article what day especially.
-P1044,Karl Flores,69,Male,Cardiology,D104,2025-10-18 11:21:00,in_consultation,44,Medium,Hair push analysis strong be.
+P1042,Heather Alvarez,47,Male,Orthopedics,D103,2025-10-18 15:13:00,discharged,0,Medium,Total step down.
+P1043,Larry Hanson,80,Female,General Medicine,D101,2025-10-18 10:54:00,discharged,0,Low,Article what day especially.
+P1044,Karl Flores,69,Male,Cardiology,D104,2025-10-18 11:21:00,discharged,4,Medium,Hair push analysis strong be.
 P1045,Matthew Wilson,83,Female,Neurology,D105,2025-10-18 15:41:00,discharged,9,Low,Here again remember detail pressure.
 P1046,Maria Scott,49,Male,Neurology,D105,2025-10-18 11:01:00,discharged,5,Medium,Military south in color control.
-P1047,Rhonda Stevens,6,Male,Orthopedics,D109,2025-10-18 11:09:00,in_consultation,65,Medium,Hotel edge color.
+P1047,Rhonda Stevens,6,Male,Orthopedics,D109,2025-10-18 11:09:00,discharged,9,Medium,Hotel edge color.
 P1048,Adrian Payne,90,Male,Pediatrics,D100,2025-10-18 13:31:00,discharged,3,Low,Than land oil.
 P1049,April Smith,2,Male,Pediatrics,D106,2025-10-18 14:38:00,discharged,6,Low,Church yet actually his.
 P1050,Anthony Ortiz,22,Male,Pediatrics,D102,2025-10-18 08:41:00,discharged,10,Medium,Statement oil.
 P1051,Brandon Kidd,9,Male,Orthopedics,D103,2025-10-18 15:33:00,discharged,12,Medium,Show pick expect our.
-P1052,Martin Scott,22,Female,Cardiology,D104,2025-10-18 14:39:00,in_consultation,81,Low,Fish mention money feel less.
-P1053,David James,72,Female,General Medicine,D101,2025-10-18 14:10:00,waiting,73,High,Store rate suffer production his.
-P1054,Linda Dennis,35,Female,Cardiology,D107,2025-10-18 12:58:00,in_consultation,13,Medium,Meeting charge think remember.
+P1052,Martin Scott,22,Female,Cardiology,D104,2025-10-18 14:39:00,discharged,8,Low,Fish mention money feel less.
+P1053,David James,72,Female,General Medicine,D101,2025-10-18 14:10:00,discharged,3,High,Store rate suffer production his.
+P1054,Linda Dennis,35,Female,Cardiology,D107,2025-10-18 12:58:00,discharged,8,Medium,Meeting charge think remember.
 P1055,Ashley Davis,2,Male,Cardiology,D104,2025-10-18 08:50:00,discharged,20,High,Couple prove nature.
-P1056,Matthew Wells,34,Male,Pediatrics,D100,2025-10-18 09:30:00,waiting,71,Low,Live south century away.
-P1057,Brett Yates,83,Female,Orthopedics,D109,2025-10-18 08:37:00,in_consultation,67,Low,Clearly unit.
-P1058,Adrienne Adams,90,Male,Orthopedics,D109,2025-10-18 13:46:00,waiting,84,Low,You task difficult.
-P1059,Stephanie Reed,55,Male,Orthopedics,D108,2025-10-18 14:41:00,in_consultation,61,Low,I off thus single.
-P1060,Megan Brown,69,Female,Pediatrics,D102,2025-10-18 15:23:00,waiting,141,Medium,Hand go.
+P1056,Matthew Wells,34,Male,Pediatrics,D100,2025-10-18 09:30:00,discharged,6,Low,Live south century away.
+P1057,Brett Yates,83,Female,Orthopedics,D109,2025-10-18 08:37:00,discharged,8,Low,Clearly unit.
+P1058,Adrienne Adams,90,Male,Orthopedics,D109,2025-10-18 13:46:00,discharged,6,Low,You task difficult.
+P1059,Stephanie Reed,55,Male,Orthopedics,D108,2025-10-18 14:41:00,discharged,5,Low,I off thus single.
+P1060,Megan Brown,69,Female,Pediatrics,D102,2025-10-18 15:23:00,discharged,9,Medium,Hand go.
 P1061,Karl Klein,10,Female,Cardiology,D107,2025-10-18 12:27:00,discharged,10,Medium,Forward wife reduce also.
 P1062,Dr. Anthony Garcia,82,Male,Orthopedics,D109,2025-10-18 15:21:00,discharged,14,Low,Fear together him.
 P1063,David Mills DVM,83,Male,Orthopedics,D109,2025-10-18 11:40:00,discharged,7,Medium,Edge civil seek.
-P1064,Jennifer Lloyd,81,Male,Pediatrics,D106,2025-10-18 12:30:00,waiting,123,Low,Spend until as.
-P1065,Mandy Hinton,72,Female,Pediatrics,D102,2025-10-18 15:04:00,waiting,115,High,Run success continue.
-P1066,Lindsay Snow,24,Male,Orthopedics,D109,2025-10-18 13:12:00,waiting,84,Low,Free nothing without.
+P1064,Jennifer Lloyd,81,Male,Pediatrics,D106,2025-10-18 12:30:00,in_consultation,550,Low,Spend until as.
+P1065,Mandy Hinton,72,Female,Pediatrics,D102,2025-10-18 15:04:00,discharged,9,High,Run success continue.
+P1066,Lindsay Snow,24,Male,Orthopedics,D109,2025-10-18 13:12:00,discharged,3,Low,Free nothing without.
 P1067,Vernon Phillips,7,Female,Pediatrics,D100,2025-10-18 10:03:00,discharged,1,High,Enter claim miss window.
 P1068,Michael Michael,29,Male,Orthopedics,D103,2025-10-18 10:55:00,discharged,4,High,Few experience small understand house.
 P1069,Jermaine Thomas,34,Female,Neurology,D105,2025-10-18 15:20:00,discharged,4,Medium,Bit hour.
-P1070,Eric Edwards,18,Male,Pediatrics,D100,2025-10-18 12:01:00,in_consultation,33,Low,Husband almost.
+P1070,Eric Edwards,18,Male,Pediatrics,D100,2025-10-18 12:01:00,discharged,5,Low,Husband almost.
 P1071,Nicholas Morrison,10,Female,Orthopedics,D103,2025-10-18 09:06:00,discharged,9,Medium,Talk travel point.
 P1072,Brian Perry,78,Female,Neurology,D105,2025-10-18 10:21:00,discharged,25,Low,Chance teach.
 P1073,Jason Mendoza,47,Female,Pediatrics,D100,2025-10-18 08:37:00,discharged,0,Low,Again natural plant think.
-P1074,Hannah Hardy,12,Female,Orthopedics,D108,2025-10-18 14:18:00,in_consultation,44,Low,Bill available all war.
+P1074,Hannah Hardy,12,Female,Orthopedics,D108,2025-10-18 14:18:00,discharged,4,Low,Bill available all war.
 P1075,Anthony Kim,90,Male,Orthopedics,D109,2025-10-18 14:20:00,discharged,5,Low,Information either perhaps ask.
-P1076,Rebecca Contreras,55,Female,Cardiology,D107,2025-10-18 09:40:00,waiting,150,Low,Window remain page ability different.
+P1076,Rebecca Contreras,55,Female,Cardiology,D107,2025-10-18 09:40:00,discharged,9,Low,Window remain page ability different.
 P1077,Gregory Hurst,15,Male,Cardiology,D104,2025-10-18 14:13:00,discharged,6,Low,Such may others yes.
-P1078,Ann Adams,29,Male,General Medicine,D101,2025-10-18 14:23:00,in_consultation,28,Medium,Win adult hospital they agreement.
-P1079,Rebecca Rowe,41,Male,Pediatrics,D102,2025-10-18 13:50:00,in_consultation,66,Low,Still condition Democrat character.
+P1078,Ann Adams,29,Male,General Medicine,D101,2025-10-18 14:23:00,discharged,0,Medium,Win adult hospital they agreement.
+P1079,Rebecca Rowe,41,Male,Pediatrics,D102,2025-10-18 13:50:00,discharged,0,Low,Still condition Democrat character.
 P1080,Glen Levine,58,Female,General Medicine,D101,2025-10-18 16:00:00,discharged,21,High,Practice lot animal only.
 P1081,Beverly Kane,58,Female,Pediatrics,D100,2025-10-18 14:33:00,discharged,6,Low,Particularly stand catch yourself step.
-P1082,Jose Cook,29,Male,General Medicine,D101,2025-10-18 09:01:00,in_consultation,55,Low,Lay they couple.
+P1082,Jose Cook,29,Male,General Medicine,D101,2025-10-18 09:01:00,discharged,6,Low,Lay they couple.
 P1083,Jenny Lindsey,5,Female,Orthopedics,D109,2025-10-18 10:17:00,discharged,26,Low,Concern citizen agent.
-P1084,Steven Evans,11,Male,Orthopedics,D108,2025-10-18 11:53:00,in_consultation,52,Low,Election white home.
+P1084,Steven Evans,11,Male,Orthopedics,D108,2025-10-18 11:53:00,discharged,8,Low,Election white home.
 P1085,Aaron Tucker Jr.,25,Male,Orthopedics,D109,2025-10-18 12:33:00,discharged,27,Low,Under assume resource itself.
 P1086,Joel Mendez,77,Male,Neurology,D105,2025-10-18 14:49:00,discharged,10,Low,Couple morning their.
 P1087,Matthew Monroe,16,Female,Pediatrics,D106,2025-10-18 10:40:00,discharged,30,Low,Himself fine medical.
 P1088,Sheena Jacobs,17,Female,Orthopedics,D109,2025-10-18 09:57:00,discharged,30,Low,Past experience as.
-P1089,Timothy Brown,78,Male,Pediatrics,D106,2025-10-18 08:34:00,in_consultation,99,High,Course rise risk.
-P1090,Anna Stephens,41,Female,Cardiology,D107,2025-10-18 08:09:00,in_consultation,103,Medium,Red anyone quality natural.
-P1091,Nicole Vega,5,Male,Orthopedics,D103,2025-10-18 14:47:00,waiting,126,High,Painting stay size.
+P1089,Timothy Brown,78,Male,Pediatrics,D106,2025-10-18 08:34:00,discharged,2,High,Course rise risk.
+P1090,Anna Stephens,41,Female,Cardiology,D107,2025-10-18 08:09:00,discharged,5,Medium,Red anyone quality natural.
+P1091,Nicole Vega,5,Male,Orthopedics,D103,2025-10-18 14:47:00,discharged,8,High,Painting stay size.
 P1092,Elizabeth Villarreal,76,Male,Cardiology,D107,2025-10-18 10:34:00,discharged,8,High,Style less democratic pattern.
-P1093,Joan Barrera,27,Male,Orthopedics,D108,2025-10-18 11:00:00,in_consultation,13,Low,Read bit real.
+P1093,Joan Barrera,27,Male,Orthopedics,D108,2025-10-18 11:00:00,discharged,8,Low,Read bit real.
 P1094,Shelley Hernandez,40,Male,Pediatrics,D102,2025-10-18 12:09:00,discharged,6,Medium,Democratic matter deal structure.
-P1095,Dana Berry,88,Female,Neurology,D105,2025-10-18 10:21:00,waiting,127,Low,Chance house the establish including.
-P1096,Taylor Ortiz,80,Female,Orthopedics,D108,2025-10-18 08:57:00,in_consultation,75,Low,Continue Mr make.
-P1097,Bridget Johnson,16,Male,Pediatrics,D100,2025-10-18 10:37:00,in_consultation,46,Medium,Store standard strong form.
-P1098,Richard Richardson,7,Male,General Medicine,D101,2025-10-18 08:19:00,waiting,94,Medium,Finish leg.
+P1095,Dana Berry,88,Female,Neurology,D105,2025-10-18 10:21:00,discharged,5,Low,Chance house the establish including.
+P1096,Taylor Ortiz,80,Female,Orthopedics,D108,2025-10-18 08:57:00,discharged,10,Low,Continue Mr make.
+P1097,Bridget Johnson,16,Male,Pediatrics,D100,2025-10-18 10:37:00,discharged,6,Medium,Store standard strong form.
+P1098,Richard Richardson,7,Male,General Medicine,D101,2025-10-18 08:19:00,discharged,7,Medium,Finish leg.
 P1099,Elizabeth Buchanan,3,Female,Pediatrics,D102,2025-10-18 12:37:00,discharged,8,High,Mission history.
 P1100,Scott Rodriguez,10,Female,General Medicine,D101,2025-10-18 15:32:00,discharged,17,Low,Simply budget hair tough.
-P1101,Joshua Duran,75,Female,Orthopedics,D103,2025-10-18 10:21:00,in_consultation,101,Medium,Tonight executive job over.
+P1101,Joshua Duran,75,Female,Orthopedics,D103,2025-10-18 10:21:00,discharged,5,Medium,Tonight executive job over.
 P1102,Brian Mckinney,3,Female,Pediatrics,D106,2025-10-18 09:07:00,discharged,18,Medium,Position office cup.
 P1103,Cassidy Ochoa,1,Male,Cardiology,D107,2025-10-18 14:03:00,discharged,5,Medium,Land customer stand occur.
-P1104,Melissa Price,78,Male,Orthopedics,D109,2025-10-18 08:31:00,waiting,111,Low,Thus conference condition.
+P1104,Melissa Price,78,Male,Orthopedics,D109,2025-10-18 08:31:00,discharged,5,Low,Thus conference condition.
 P1105,Debra Thompson,48,Male,Orthopedics,D108,2025-10-18 08:13:00,discharged,28,Medium,Marriage stay.
-P1106,John Gray,11,Female,Pediatrics,D102,2025-10-18 14:13:00,waiting,118,Low,Guess themselves character.
+P1106,John Gray,11,Female,Pediatrics,D102,2025-10-18 14:13:00,discharged,3,Low,Guess themselves character.
 P1107,Andrew Steele,50,Female,General Medicine,D101,2025-10-18 11:31:00,discharged,4,Low,Employee assume and.
-P1108,Mark Schmidt,85,Female,Cardiology,D107,2025-10-18 12:42:00,waiting,153,Low,Travel paper fact ago section.
-P1109,Courtney Humphrey,37,Male,Orthopedics,D103,2025-10-18 14:42:00,waiting,146,Medium,Information itself happy.
+P1108,Mark Schmidt,85,Female,Cardiology,D107,2025-10-18 12:42:00,in_consultation,383,Low,Travel paper fact ago section.
+P1109,Courtney Humphrey,37,Male,Orthopedics,D103,2025-10-18 14:42:00,discharged,8,Medium,Information itself happy.
 P1110,Stephanie Brown,39,Female,General Medicine,D101,2025-10-18 14:39:00,discharged,9,Medium,Position another account message.
-P1111,David Meyer,56,Male,Cardiology,D104,2025-10-18 10:14:00,waiting,99,Low,Sit charge research important any.
+P1111,David Meyer,56,Male,Cardiology,D104,2025-10-18 10:14:00,in_consultation,299,Low,Sit charge research important any.
 P1112,Robin Bridges,81,Male,Pediatrics,D100,2025-10-18 11:55:00,discharged,4,Medium,Moment history partner part social.
 P1113,Daniel Hall,4,Male,Pediatrics,D100,2025-10-18 10:55:00,discharged,7,Low,Nearly station argue.
 P1114,Joseph Bruce,36,Female,Cardiology,D107,2025-10-18 14:58:00,discharged,2,Low,Business most.
-P1115,Elizabeth Lutz,86,Male,Neurology,D105,2025-10-18 11:42:00,waiting,74,Medium,Any class Democrat resource.
+P1115,Elizabeth Lutz,86,Male,Neurology,D105,2025-10-18 11:42:00,discharged,4,Medium,Any class Democrat resource.
 P1116,Daniel Campbell,14,Male,Pediatrics,D102,2025-10-18 14:53:00,discharged,28,Low,Else officer enough program.
 P1117,Jonathan Spence,88,Male,General Medicine,D101,2025-10-18 09:29:00,discharged,3,Low,Else develop loss.
 P1118,Ashley Mcdaniel,67,Male,Pediatrics,D100,2025-10-18 11:35:00,discharged,30,Medium,Real discussion manager Mrs.
 P1119,Sherry Bird,13,Male,Cardiology,D107,2025-10-18 10:14:00,discharged,0,Low,Language training above response.
-P2120,Rohit Verma,35,Male,Orthopedics,D103,2025-10-18 21:03:02,waiting,65,Medium,Walk-in
-P2121,Rohit Verma,84,Female,Neurology,D105,2025-10-18 21:03:02,in_consultation,59,Medium,Walk-in
-P2122,Alex Parker,80,Male,Cardiology,D107,2025-10-18 21:03:06,waiting,66,High,Walk-in
+P2120,Rohit Verma,35,Male,Orthopedics,D103,2025-10-18 21:03:02,discharged,10,Medium,Walk-in
+P2121,Rohit Verma,84,Female,Neurology,D105,2025-10-18 21:03:02,discharged,5,Medium,Walk-in
+P2122,Alex Parker,80,Male,Cardiology,D107,2025-10-18 21:03:06,discharged,9,High,Walk-in
 P3123,Aisha Khan,31,Male,Orthopedics,D108,2025-10-18 21:03:07,discharged,6,Low,Walk-in
-P3124,Priya Sharma,35,Male,General Medicine,D101,2025-10-18 21:03:09,waiting,61,High,Walk-in
+P3124,Priya Sharma,35,Male,General Medicine,D101,2025-10-18 21:03:09,discharged,10,High,Walk-in
 P3125,Maya Singh,28,Female,Pediatrics,D102,2025-10-18 21:03:12,discharged,6,Medium,Walk-in
-P3126,Rohit Verma,83,Female,Pediatrics,D100,2025-10-18 21:03:12,in_consultation,10,Low,Walk-in
-P3127,Maya Singh,15,Female,Pediatrics,D106,2025-10-18 21:03:15,waiting,65,Low,Walk-in
-P3128,Isha Patel,52,Female,Pediatrics,D106,2025-10-18 21:03:15,in_consultation,17,High,Walk-in
-P4129,Aisha Khan,58,Female,Pediatrics,D100,2025-10-18 21:03:17,waiting,63,Medium,Walk-in
-P4130,Maya Singh,64,Male,Cardiology,D107,2025-10-18 21:03:17,waiting,63,Low,Walk-in
+P3126,Rohit Verma,83,Female,Pediatrics,D100,2025-10-18 21:03:12,discharged,2,Low,Walk-in
+P3127,Maya Singh,15,Female,Pediatrics,D106,2025-10-18 21:03:15,discharged,5,Low,Walk-in
+P3128,Isha Patel,52,Female,Pediatrics,D106,2025-10-18 21:03:15,discharged,4,High,Walk-in
+P4129,Aisha Khan,58,Female,Pediatrics,D100,2025-10-18 21:03:17,discharged,1,Medium,Walk-in
+P4130,Maya Singh,64,Male,Cardiology,D107,2025-10-18 21:03:17,discharged,4,Low,Walk-in
 P4131,Liam Brown,11,Female,Pediatrics,D100,2025-10-18 21:03:18,discharged,5,High,Walk-in
-P4132,Aisha Khan,44,Female,Pediatrics,D100,2025-10-18 21:03:21,waiting,53,Low,Walk-in
+P4132,Aisha Khan,44,Female,Pediatrics,D100,2025-10-18 21:03:21,discharged,0,Low,Walk-in
 P5133,Priya Sharma,85,Male,General Medicine,D101,2025-10-18 21:03:22,discharged,2,Medium,Walk-in
-P5134,Rohit Verma,10,Male,General Medicine,D101,2025-10-18 21:03:22,waiting,52,Low,Walk-in
+P5134,Rohit Verma,10,Male,General Medicine,D101,2025-10-18 21:03:22,discharged,8,Low,Walk-in
 P5135,Maya Singh,34,Female,Cardiology,D107,2025-10-18 21:03:24,discharged,7,Medium,Walk-in
-P5136,Priya Sharma,66,Male,Pediatrics,D106,2025-10-18 21:03:27,waiting,52,High,Walk-in
-P6137,Maya Singh,5,Female,General Medicine,D101,2025-10-18 21:03:32,waiting,44,Medium,Walk-in
-P6138,Liam Brown,36,Female,General Medicine,D101,2025-10-18 21:03:32,in_consultation,30,Low,Walk-in
-P6139,Aisha Khan,63,Male,Orthopedics,D103,2025-10-18 21:03:33,waiting,46,Low,Walk-in
-P6140,Aisha Khan,32,Male,Orthopedics,D103,2025-10-18 21:03:33,in_consultation,11,Medium,Walk-in
-P6141,Satish Kumar,71,Female,Orthopedics,D109,2025-10-18 21:03:36,in_consultation,33,Medium,Walk-in
-P6142,Alex Parker,66,Male,Cardiology,D107,2025-10-18 21:03:36,waiting,50,Low,Walk-in
-P6143,Priya Sharma,9,Female,Neurology,D105,2025-10-18 21:03:36,in_consultation,26,High,Walk-in
+P5136,Priya Sharma,66,Male,Pediatrics,D106,2025-10-18 21:03:27,discharged,6,High,Walk-in
+P6137,Maya Singh,5,Female,General Medicine,D101,2025-10-18 21:03:32,discharged,2,Medium,Walk-in
+P6138,Liam Brown,36,Female,General Medicine,D101,2025-10-18 21:03:32,discharged,7,Low,Walk-in
+P6139,Aisha Khan,63,Male,Orthopedics,D103,2025-10-18 21:03:33,discharged,0,Low,Walk-in
+P6140,Aisha Khan,32,Male,Orthopedics,D103,2025-10-18 21:03:33,discharged,6,Medium,Walk-in
+P6141,Satish Kumar,71,Female,Orthopedics,D109,2025-10-18 21:03:36,discharged,4,Medium,Walk-in
+P6142,Alex Parker,66,Male,Cardiology,D107,2025-10-18 21:03:36,discharged,6,Low,Walk-in
+P6143,Priya Sharma,9,Female,Neurology,D105,2025-10-18 21:03:36,discharged,7,High,Walk-in
 P7144,Alex Parker,16,Male,General Medicine,D101,2025-10-18 21:03:37,discharged,3,Medium,Walk-in
-P7145,Maya Singh,27,Male,Cardiology,D104,2025-10-18 21:03:37,in_consultation,26,High,Walk-in
-P7146,Isha Patel,60,Male,Pediatrics,D106,2025-10-18 21:03:39,waiting,44,High,Walk-in
-P7147,Liam Brown,8,Female,General Medicine,D101,2025-10-18 21:03:42,in_consultation,1,Medium,Walk-in
-P7148,Liam Brown,6,Male,Pediatrics,D100,2025-10-18 21:03:42,waiting,40,Medium,Walk-in
-P7149,Rohit Verma,89,Female,Cardiology,D107,2025-10-18 21:03:42,waiting,38,Low,Walk-in
-P7150,Maya Singh,7,Male,Orthopedics,D103,2025-10-18 21:03:46,waiting,39,Medium,Walk-in
-P7151,Liam Brown,71,Male,Orthopedics,D109,2025-10-18 21:03:46,in_consultation,19,High,Walk-in
-P7152,Alex Parker,23,Female,Neurology,D105,2025-10-18 21:03:49,in_consultation,25,High,Walk-in
-P7153,Maya Singh,45,Female,Pediatrics,D100,2025-10-18 21:03:49,waiting,40,Medium,Walk-in
+P7145,Maya Singh,27,Male,Cardiology,D104,2025-10-18 21:03:37,discharged,10,High,Walk-in
+P7146,Isha Patel,60,Male,Pediatrics,D106,2025-10-18 21:03:39,discharged,6,High,Walk-in
+P7147,Liam Brown,8,Female,General Medicine,D101,2025-10-18 21:03:42,discharged,4,Medium,Walk-in
+P7148,Liam Brown,6,Male,Pediatrics,D100,2025-10-18 21:03:42,discharged,6,Medium,Walk-in
+P7149,Rohit Verma,89,Female,Cardiology,D107,2025-10-18 21:03:42,discharged,4,Low,Walk-in
+P7150,Maya Singh,7,Male,Orthopedics,D103,2025-10-18 21:03:46,discharged,7,Medium,Walk-in
+P7151,Liam Brown,71,Male,Orthopedics,D109,2025-10-18 21:03:46,discharged,0,High,Walk-in
+P7152,Alex Parker,23,Female,Neurology,D105,2025-10-18 21:03:49,discharged,5,High,Walk-in
+P7153,Maya Singh,45,Female,Pediatrics,D100,2025-10-18 21:03:49,discharged,1,Medium,Walk-in
 P7154,Liam Brown,19,Female,Cardiology,D107,2025-10-18 21:03:49,discharged,7,High,Walk-in
-P7155,Priya Sharma,90,Female,Pediatrics,D106,2025-10-18 21:03:52,waiting,36,Medium,Walk-in
-P8156,Maya Singh,41,Male,Orthopedics,D103,2025-10-18 21:03:52,waiting,38,Medium,Walk-in
-P8157,Aisha Khan,80,Female,Orthopedics,D108,2025-10-18 21:03:52,in_consultation,13,Medium,Walk-in
+P7155,Priya Sharma,90,Female,Pediatrics,D106,2025-10-18 21:03:52,discharged,7,Medium,Walk-in
+P8156,Maya Singh,41,Male,Orthopedics,D103,2025-10-18 21:03:52,discharged,8,Medium,Walk-in
+P8157,Aisha Khan,80,Female,Orthopedics,D108,2025-10-18 21:03:52,discharged,2,Medium,Walk-in
 P8158,Isha Patel,19,Male,Orthopedics,D108,2025-10-18 21:03:58,discharged,5,High,Walk-in
-P8159,Liam Brown,68,Female,Cardiology,D107,2025-10-18 21:03:58,waiting,37,High,Walk-in
-P8160,Liam Brown,25,Male,Cardiology,D107,2025-10-18 21:03:58,in_consultation,7,Low,Walk-in
-P8161,Rohit Verma,58,Female,Neurology,D105,2025-10-18 21:04:01,waiting,38,High,Walk-in
-P8162,Maya Singh,42,Male,Orthopedics,D108,2025-10-18 21:04:01,waiting,33,Medium,Walk-in
-P8163,Alex Parker,2,Male,Neurology,D105,2025-10-18 21:04:04,in_consultation,17,High,Walk-in
-P8164,Satish Kumar,43,Male,Pediatrics,D106,2025-10-18 21:04:10,in_consultation,0,Low,Walk-in
-P8165,Satish Kumar,4,Male,Neurology,D105,2025-10-18 21:04:10,waiting,28,High,Walk-in
+P8159,Liam Brown,68,Female,Cardiology,D107,2025-10-18 21:03:58,discharged,7,High,Walk-in
+P8160,Liam Brown,25,Male,Cardiology,D107,2025-10-18 21:03:58,discharged,4,Low,Walk-in
+P8161,Rohit Verma,58,Female,Neurology,D105,2025-10-18 21:04:01,discharged,1,High,Walk-in
+P8162,Maya Singh,42,Male,Orthopedics,D108,2025-10-18 21:04:01,discharged,6,Medium,Walk-in
+P8163,Alex Parker,2,Male,Neurology,D105,2025-10-18 21:04:04,discharged,3,High,Walk-in
+P8164,Satish Kumar,43,Male,Pediatrics,D106,2025-10-18 21:04:10,discharged,10,Low,Walk-in
+P8165,Satish Kumar,4,Male,Neurology,D105,2025-10-18 21:04:10,discharged,9,High,Walk-in
 P8166,Aisha Khan,24,Female,Pediatrics,D106,2025-10-18 21:04:10,discharged,9,Medium,Walk-in
-P9167,Maya Singh,56,Male,Cardiology,D104,2025-10-18 21:04:12,waiting,29,Medium,Walk-in
-P9168,Aisha Khan,41,Male,Pediatrics,D106,2025-10-18 21:04:12,waiting,25,Low,Walk-in
-P9169,Satish Kumar,8,Female,Pediatrics,D100,2025-10-18 21:04:13,waiting,21,Medium,Walk-in
-P9170,Aisha Khan,74,Female,Orthopedics,D109,2025-10-18 21:04:13,waiting,29,Low,Walk-in
-P9171,Isha Patel,88,Male,Pediatrics,D102,2025-10-18 21:04:13,in_consultation,4,Low,Walk-in
-P9172,Satish Kumar,88,Female,Orthopedics,D103,2025-10-18 21:04:16,waiting,27,Medium,Walk-in
-P9173,Aisha Khan,49,Male,Pediatrics,D106,2025-10-18 21:04:16,in_consultation,1,High,Walk-in
-P9174,Alex Parker,56,Female,Orthopedics,D103,2025-10-18 21:04:19,in_consultation,14,High,Walk-in
-P9175,Maya Singh,14,Male,Neurology,D105,2025-10-18 21:04:19,in_consultation,17,Low,Walk-in
-P9176,Liam Brown,19,Male,General Medicine,D101,2025-10-18 21:04:19,in_consultation,13,High,Walk-in
-P9177,Rohit Verma,70,Female,Cardiology,D104,2025-10-18 21:04:22,waiting,19,Medium,Walk-in
-P10178,Aisha Khan,78,Female,Cardiology,D104,2025-10-18 21:04:22,waiting,20,High,Walk-in
-P10179,Satish Kumar,20,Male,Pediatrics,D100,2025-10-18 21:04:25,waiting,18,High,Walk-in
-P10180,Aisha Khan,11,Male,Neurology,D105,2025-10-18 21:04:25,waiting,19,Low,Walk-in
-P11181,Priya Sharma,44,Male,Pediatrics,D100,2025-10-18 21:04:27,waiting,24,Medium,Walk-in
-P11182,Isha Patel,49,Female,General Medicine,D101,2025-10-18 21:04:28,waiting,16,Medium,Walk-in
-P12183,Alex Parker,3,Female,Cardiology,D107,2025-10-18 21:04:32,in_consultation,10,Medium,Walk-in
-P12184,Alex Parker,46,Male,Pediatrics,D102,2025-10-18 21:04:34,waiting,15,High,Walk-in
-P12185,Rohit Verma,1,Male,Pediatrics,D100,2025-10-18 21:04:34,waiting,14,High,Walk-in
-P12186,Aisha Khan,88,Male,Pediatrics,D106,2025-10-18 21:04:37,waiting,18,High,Walk-in
-P12187,Liam Brown,58,Female,Cardiology,D104,2025-10-18 21:04:41,waiting,16,High,Walk-in
-P12188,Rohit Verma,6,Female,Pediatrics,D100,2025-10-18 21:04:44,waiting,7,Medium,Walk-in
-P12189,Alex Parker,35,Male,Neurology,D105,2025-10-18 21:04:44,waiting,8,Low,Walk-in
-P12190,Satish Kumar,77,Male,General Medicine,D101,2025-10-18 21:04:44,waiting,8,Medium,Walk-in
-P12191,Aisha Khan,87,Female,General Medicine,D101,2025-10-18 21:04:50,waiting,10,High,Walk-in
-P12192,Maya Singh,65,Male,Pediatrics,D100,2025-10-18 21:04:50,waiting,5,High,Walk-in
-P12193,Aisha Khan,73,Female,General Medicine,D101,2025-10-18 21:04:50,waiting,11,Low,Walk-in
+P9167,Maya Singh,56,Male,Cardiology,D104,2025-10-18 21:04:12,in_consultation,460,Medium,Walk-in
+P9168,Aisha Khan,41,Male,Pediatrics,D106,2025-10-18 21:04:12,discharged,3,Low,Walk-in
+P9169,Satish Kumar,8,Female,Pediatrics,D100,2025-10-18 21:04:13,discharged,0,Medium,Walk-in
+P9170,Aisha Khan,74,Female,Orthopedics,D109,2025-10-18 21:04:13,waiting,473,Low,Walk-in
+P9171,Isha Patel,88,Male,Pediatrics,D102,2025-10-18 21:04:13,discharged,3,Low,Walk-in
+P9172,Satish Kumar,88,Female,Orthopedics,D103,2025-10-18 21:04:16,in_consultation,390,Medium,Walk-in
+P9173,Aisha Khan,49,Male,Pediatrics,D106,2025-10-18 21:04:16,discharged,8,High,Walk-in
+P9174,Alex Parker,56,Female,Orthopedics,D103,2025-10-18 21:04:19,discharged,4,High,Walk-in
+P9175,Maya Singh,14,Male,Neurology,D105,2025-10-18 21:04:19,discharged,6,Low,Walk-in
+P9176,Liam Brown,19,Male,General Medicine,D101,2025-10-18 21:04:19,discharged,8,High,Walk-in
+P9177,Rohit Verma,70,Female,Cardiology,D104,2025-10-18 21:04:22,waiting,463,Medium,Walk-in
+P10178,Aisha Khan,78,Female,Cardiology,D104,2025-10-18 21:04:22,discharged,4,High,Walk-in
+P10179,Satish Kumar,20,Male,Pediatrics,D100,2025-10-18 21:04:25,discharged,7,High,Walk-in
+P10180,Aisha Khan,11,Male,Neurology,D105,2025-10-18 21:04:25,discharged,7,Low,Walk-in
+P11181,Priya Sharma,44,Male,Pediatrics,D100,2025-10-18 21:04:27,discharged,1,Medium,Walk-in
+P11182,Isha Patel,49,Female,General Medicine,D101,2025-10-18 21:04:28,in_consultation,237,Medium,Walk-in
+P12183,Alex Parker,3,Female,Cardiology,D107,2025-10-18 21:04:32,discharged,5,Medium,Walk-in
+P12184,Alex Parker,46,Male,Pediatrics,D102,2025-10-18 21:04:34,discharged,10,High,Walk-in
+P12185,Rohit Verma,1,Male,Pediatrics,D100,2025-10-18 21:04:34,discharged,9,High,Walk-in
+P12186,Aisha Khan,88,Male,Pediatrics,D106,2025-10-18 21:04:37,discharged,4,High,Walk-in
+P12187,Liam Brown,58,Female,Cardiology,D104,2025-10-18 21:04:41,discharged,0,High,Walk-in
+P12188,Rohit Verma,6,Female,Pediatrics,D100,2025-10-18 21:04:44,discharged,10,Medium,Walk-in
+P12189,Alex Parker,35,Male,Neurology,D105,2025-10-18 21:04:44,discharged,6,Low,Walk-in
+P12190,Satish Kumar,77,Male,General Medicine,D101,2025-10-18 21:04:44,discharged,0,Medium,Walk-in
+P12191,Aisha Khan,87,Female,General Medicine,D101,2025-10-18 21:04:50,discharged,10,High,Walk-in
+P12192,Maya Singh,65,Male,Pediatrics,D100,2025-10-18 21:04:50,discharged,5,High,Walk-in
+P12193,Aisha Khan,73,Female,General Medicine,D101,2025-10-18 21:04:50,discharged,10,Low,Walk-in
+P12194,Alex Parker,63,Male,Orthopedics,D109,2025-10-18 21:04:53,in_consultation,179,Medium,Walk-in
+P12195,Alex Parker,1,Female,Orthopedics,D109,2025-10-18 21:04:53,discharged,1,High,Walk-in
+P12196,Liam Brown,17,Female,Pediatrics,D102,2025-10-18 21:04:53,discharged,6,Medium,Walk-in
+P12197,Satish Kumar,21,Female,Orthopedics,D108,2025-10-18 21:04:56,discharged,9,High,Walk-in
+P12198,Aisha Khan,12,Male,Orthopedics,D103,2025-10-18 21:04:56,discharged,1,Medium,Walk-in
+P12199,Liam Brown,34,Male,Neurology,D105,2025-10-18 21:04:56,discharged,3,Low,Walk-in
+P12200,Isha Patel,77,Female,Pediatrics,D102,2025-10-18 21:04:59,discharged,1,High,Walk-in
+P12201,Satish Kumar,24,Female,Cardiology,D107,2025-10-18 21:04:59,discharged,0,Low,Walk-in
+P12202,Alex Parker,39,Female,General Medicine,D101,2025-10-18 21:05:02,in_consultation,360,Medium,Walk-in
+P12203,Rohit Verma,5,Male,Orthopedics,D108,2025-10-18 21:05:02,discharged,3,Medium,Walk-in
+P13204,Liam Brown,17,Female,Orthopedics,D109,2025-10-18 21:05:03,discharged,3,High,Walk-in
+P13205,Maya Singh,20,Female,Cardiology,D104,2025-10-18 21:05:03,in_consultation,46,Medium,Walk-in
+P13206,Isha Patel,78,Female,Cardiology,D104,2025-10-18 21:05:05,discharged,3,High,Walk-in
+P13207,Satish Kumar,73,Female,Orthopedics,D109,2025-10-18 21:05:05,discharged,0,Low,Walk-in
+P13208,Satish Kumar,15,Female,Orthopedics,D108,2025-10-18 21:05:05,discharged,4,Medium,Walk-in
+P14209,Rohit Verma,41,Male,General Medicine,D101,2025-10-18 21:05:08,in_consultation,270,Low,Walk-in
+P14210,Rohit Verma,52,Female,Orthopedics,D103,2025-10-18 21:05:08,discharged,1,Low,Walk-in
+P14211,Maya Singh,13,Male,Orthopedics,D103,2025-10-18 21:05:11,waiting,442,Low,Walk-in
+P14212,Aisha Khan,19,Female,Orthopedics,D109,2025-10-18 21:05:11,discharged,2,High,Walk-in
+P14213,Satish Kumar,84,Male,Cardiology,D104,2025-10-18 21:05:14,discharged,4,Medium,Walk-in
+P14214,Satish Kumar,29,Female,Pediatrics,D106,2025-10-18 21:05:14,waiting,432,Low,Walk-in
+P14215,Liam Brown,83,Male,Pediatrics,D100,2025-10-18 21:05:14,waiting,431,Low,Walk-in
+P14216,Aisha Khan,19,Female,Cardiology,D104,2025-10-18 21:05:17,discharged,8,High,Walk-in
+P15217,Priya Sharma,19,Female,General Medicine,D101,2025-10-18 21:05:23,discharged,8,Medium,Walk-in
+P15218,Aisha Khan,11,Female,Pediatrics,D102,2025-10-18 21:05:23,discharged,9,Low,Walk-in
+P15219,Maya Singh,1,Male,Orthopedics,D108,2025-10-18 21:05:23,discharged,7,High,Walk-in
+P15220,Priya Sharma,90,Male,Orthopedics,D109,2025-10-18 21:05:23,discharged,10,Medium,Walk-in
+P15221,Maya Singh,31,Male,Orthopedics,D108,2025-10-18 21:05:23,in_consultation,157,Low,Walk-in
+P15222,Satish Kumar,23,Female,Orthopedics,D108,2025-10-18 21:05:26,discharged,10,High,Walk-in
+P15223,Liam Brown,90,Male,General Medicine,D101,2025-10-18 21:05:29,discharged,10,Medium,Walk-in
+P15224,Aisha Khan,47,Male,Neurology,D105,2025-10-18 21:05:29,discharged,10,High,Walk-in
+P15225,Alex Parker,48,Female,Neurology,D105,2025-10-18 21:05:29,discharged,5,High,Walk-in
+P15226,Priya Sharma,19,Male,Cardiology,D104,2025-10-18 21:05:32,discharged,9,Low,Walk-in
+P15227,Isha Patel,73,Female,Pediatrics,D106,2025-10-18 21:05:32,discharged,9,High,Walk-in
+P15228,Satish Kumar,50,Female,Neurology,D105,2025-10-18 21:05:35,discharged,4,Medium,Walk-in
+P15229,Maya Singh,50,Male,Orthopedics,D109,2025-10-18 21:05:35,discharged,0,Medium,Walk-in
+P15230,Maya Singh,62,Female,Orthopedics,D108,2025-10-18 21:05:38,discharged,8,Low,Walk-in
+P15231,Liam Brown,24,Female,Cardiology,D107,2025-10-18 21:05:38,discharged,9,High,Walk-in
+P15232,Isha Patel,90,Female,Orthopedics,D108,2025-10-18 21:05:38,discharged,3,High,Walk-in
+P15233,Satish Kumar,35,Female,General Medicine,D101,2025-10-18 21:05:41,discharged,10,Medium,Walk-in
+P16234,Maya Singh,85,Female,Pediatrics,D100,2025-10-18 21:05:43,waiting,417,High,Walk-in
+P16235,Aisha Khan,44,Female,Cardiology,D104,2025-10-18 21:05:43,discharged,3,Low,Walk-in
+P16236,Priya Sharma,49,Male,Cardiology,D104,2025-10-18 21:05:44,discharged,9,High,Walk-in
+P16237,Maya Singh,16,Female,Cardiology,D107,2025-10-18 21:05:44,in_consultation,325,Low,Walk-in
+P16238,Satish Kumar,61,Female,General Medicine,D101,2025-10-18 21:05:44,discharged,6,Medium,Walk-in
+P16239,Priya Sharma,46,Male,Neurology,D105,2025-10-18 21:05:47,discharged,2,High,Walk-in
+P16240,Liam Brown,50,Male,Pediatrics,D102,2025-10-18 21:05:47,discharged,2,High,Walk-in
+P16241,Maya Singh,47,Female,Pediatrics,D106,2025-10-18 21:05:50,discharged,2,Medium,Walk-in
+P16242,Alex Parker,90,Male,General Medicine,D101,2025-10-18 21:05:51,discharged,5,Medium,Walk-in
+P16243,Isha Patel,46,Male,General Medicine,D101,2025-10-18 21:05:51,discharged,5,High,Walk-in
+P16244,Satish Kumar,18,Female,Pediatrics,D102,2025-10-18 21:05:54,discharged,1,Low,Walk-in
+P16245,Priya Sharma,44,Male,General Medicine,D101,2025-10-18 21:05:54,discharged,9,Medium,Walk-in
+P17246,Aisha Khan,54,Male,Pediatrics,D100,2025-10-18 21:05:58,discharged,8,Medium,Walk-in
+P17247,Rohit Verma,10,Female,General Medicine,D101,2025-10-18 21:06:00,discharged,1,Medium,Walk-in
+P17248,Rohit Verma,36,Female,Orthopedics,D108,2025-10-18 21:06:03,discharged,3,High,Walk-in
+P17249,Priya Sharma,62,Female,Pediatrics,D102,2025-10-18 21:06:03,discharged,7,Low,Walk-in
+P17250,Rohit Verma,11,Female,Neurology,D105,2025-10-18 21:06:03,discharged,10,Medium,Walk-in
+P18251,Alex Parker,32,Female,Pediatrics,D106,2025-10-18 21:06:03,waiting,402,Medium,Walk-in
+P18252,Maya Singh,36,Male,Orthopedics,D109,2025-10-18 21:06:03,discharged,2,Low,Walk-in
+P18253,Rohit Verma,24,Female,Cardiology,D104,2025-10-18 21:06:06,discharged,9,Low,Walk-in
+P18254,Isha Patel,90,Male,Pediatrics,D106,2025-10-18 21:06:12,discharged,6,Low,Walk-in
+P18255,Aisha Khan,46,Female,Cardiology,D107,2025-10-18 21:06:12,discharged,0,Medium,Walk-in
+P18256,Priya Sharma,38,Male,Orthopedics,D108,2025-10-18 21:06:12,discharged,6,Low,Walk-in
+P18257,Aisha Khan,47,Female,General Medicine,D101,2025-10-18 21:06:15,discharged,2,Medium,Walk-in
+P18258,Isha Patel,68,Male,Cardiology,D104,2025-10-18 21:06:15,discharged,10,High,Walk-in
+P18259,Aisha Khan,64,Female,Orthopedics,D109,2025-10-18 21:06:15,waiting,399,Low,Walk-in
+P18260,Isha Patel,68,Female,Pediatrics,D106,2025-10-18 21:06:18,discharged,5,High,Walk-in
+P18261,Maya Singh,31,Male,Pediatrics,D100,2025-10-18 21:06:18,discharged,8,Low,Walk-in
+P18262,Rohit Verma,29,Female,Neurology,D105,2025-10-18 21:06:21,discharged,1,Medium,Walk-in
+P19263,Aisha Khan,68,Female,Cardiology,D107,2025-10-18 21:06:23,in_consultation,157,High,Walk-in
+P19264,Aisha Khan,30,Female,Orthopedics,D108,2025-10-18 21:06:23,in_consultation,177,Low,Walk-in
+P19265,Isha Patel,38,Male,General Medicine,D101,2025-10-18 21:06:24,discharged,5,Medium,Walk-in
+P19266,Maya Singh,56,Female,Cardiology,D104,2025-10-18 21:06:24,discharged,7,High,Walk-in
+P19267,Aisha Khan,45,Male,Pediatrics,D106,2025-10-18 21:06:24,discharged,0,Medium,Walk-in
+P19268,Priya Sharma,7,Female,Cardiology,D107,2025-10-18 21:06:27,in_consultation,164,Low,Walk-in
+P19269,Satish Kumar,52,Female,Orthopedics,D103,2025-10-18 21:06:27,discharged,5,High,Walk-in
+P19270,Rohit Verma,63,Female,Orthopedics,D108,2025-10-18 21:06:27,discharged,0,High,Walk-in
+P20271,Liam Brown,88,Female,Pediatrics,D102,2025-10-18 21:06:28,discharged,3,High,Walk-in
+P20272,Rohit Verma,25,Male,General Medicine,D101,2025-10-18 21:06:33,discharged,8,Low,Walk-in
+P21273,Maya Singh,78,Female,Cardiology,D107,2025-10-18 21:06:33,discharged,10,High,Walk-in
+P21274,Alex Parker,77,Female,Orthopedics,D103,2025-10-18 21:06:39,in_consultation,322,Medium,Walk-in
+P21275,Isha Patel,8,Male,Pediatrics,D100,2025-10-18 21:06:39,discharged,10,Medium,Walk-in
+P21276,Satish Kumar,75,Female,Cardiology,D107,2025-10-18 21:06:39,discharged,0,High,Walk-in
+P21277,Alex Parker,17,Male,Orthopedics,D103,2025-10-18 21:06:42,discharged,6,High,Walk-in
+P21278,Isha Patel,8,Male,Pediatrics,D102,2025-10-18 21:06:42,in_consultation,174,Low,Walk-in
+P22279,Alex Parker,4,Male,Pediatrics,D102,2025-10-18 21:06:43,discharged,9,High,Walk-in
+P22280,Alex Parker,50,Female,Orthopedics,D108,2025-10-18 21:06:43,discharged,10,High,Walk-in
+P22281,Liam Brown,74,Male,Cardiology,D104,2025-10-18 21:06:48,discharged,7,High,Walk-in
+P22282,Rohit Verma,3,Male,Pediatrics,D102,2025-10-18 21:06:48,discharged,9,Medium,Walk-in
+P22283,Alex Parker,56,Male,Pediatrics,D106,2025-10-18 21:06:48,waiting,370,Low,Walk-in
+P23284,Liam Brown,87,Female,Orthopedics,D103,2025-10-18 21:06:48,discharged,2,High,Walk-in
+P23285,Rohit Verma,21,Male,Neurology,D105,2025-10-18 21:06:48,discharged,3,Low,Walk-in
+P23286,Alex Parker,40,Male,Pediatrics,D102,2025-10-18 21:06:51,discharged,4,Low,Walk-in
+P23287,Aisha Khan,55,Male,Orthopedics,D109,2025-10-18 21:06:51,waiting,372,Low,Walk-in
+P23288,Maya Singh,79,Male,Neurology,D105,2025-10-18 21:06:51,discharged,3,High,Walk-in
+P23289,Maya Singh,32,Male,Neurology,D105,2025-10-18 21:06:54,waiting,372,Low,Walk-in
+P23290,Maya Singh,24,Female,Orthopedics,D103,2025-10-18 21:06:54,discharged,1,High,Walk-in
+P23291,Priya Sharma,33,Female,Cardiology,D104,2025-10-18 21:06:57,waiting,370,Low,Walk-in
+P23292,Liam Brown,52,Female,Orthopedics,D103,2025-10-18 21:06:57,discharged,9,High,Walk-in
+P23293,Aisha Khan,16,Male,Cardiology,D104,2025-10-18 21:07:00,discharged,4,Medium,Walk-in
+P23294,Priya Sharma,49,Female,Orthopedics,D108,2025-10-18 21:07:00,discharged,7,Medium,Walk-in
+P23295,Satish Kumar,90,Female,Cardiology,D104,2025-10-18 21:07:00,discharged,9,Low,Walk-in
+P23296,Liam Brown,53,Male,Cardiology,D107,2025-10-18 21:07:03,discharged,9,High,Walk-in
+P23297,Satish Kumar,17,Male,Pediatrics,D102,2025-10-18 21:07:03,waiting,363,Medium,Walk-in
+P23298,Satish Kumar,1,Male,Pediatrics,D106,2025-10-18 21:07:03,discharged,6,Low,Walk-in
+P24299,Rohit Verma,67,Female,Orthopedics,D103,2025-10-18 21:07:04,discharged,4,Medium,Walk-in
+P24300,Rohit Verma,22,Female,Cardiology,D107,2025-10-18 21:07:06,discharged,10,High,Walk-in
+P24301,Priya Sharma,87,Female,Orthopedics,D108,2025-10-18 21:07:06,discharged,5,Low,Walk-in
+P24302,Aisha Khan,64,Male,Cardiology,D107,2025-10-18 21:07:06,discharged,4,High,Walk-in
+P25303,Alex Parker,68,Male,Cardiology,D104,2025-10-18 21:07:09,discharged,0,Medium,Walk-in
+P25304,Rohit Verma,74,Male,Cardiology,D107,2025-10-18 21:07:09,in_consultation,328,Low,Walk-in
+P25305,Satish Kumar,48,Female,Orthopedics,D108,2025-10-18 21:07:10,discharged,8,Low,Walk-in
+P25306,Rohit Verma,24,Female,Pediatrics,D102,2025-10-18 21:07:10,waiting,359,High,Walk-in
+P25307,Alex Parker,81,Female,Orthopedics,D108,2025-10-18 21:07:13,discharged,6,High,Walk-in
+P25308,Maya Singh,60,Female,Orthopedics,D108,2025-10-18 21:07:13,discharged,1,Medium,Walk-in
+P25309,Liam Brown,18,Female,Orthopedics,D109,2025-10-18 21:07:16,discharged,4,Low,Walk-in
+P25310,Satish Kumar,77,Female,General Medicine,D101,2025-10-18 21:07:19,waiting,359,Low,Walk-in
+P25311,Aisha Khan,55,Female,Pediatrics,D102,2025-10-18 21:07:19,in_consultation,120,Medium,Walk-in
+P25312,Liam Brown,59,Male,Pediatrics,D106,2025-10-18 21:07:19,in_consultation,93,Low,Walk-in
+P26313,Alex Parker,44,Female,Neurology,D105,2025-10-18 21:07:19,discharged,0,Medium,Walk-in
+P26314,Rohit Verma,40,Male,Orthopedics,D108,2025-10-18 21:07:19,discharged,0,Medium,Walk-in
+P26315,Aisha Khan,52,Male,Cardiology,D107,2025-10-18 21:07:28,discharged,4,Medium,Walk-in
+P26316,Maya Singh,1,Female,General Medicine,D101,2025-10-18 21:07:28,discharged,10,Medium,Walk-in
+P26317,Rohit Verma,82,Female,Orthopedics,D109,2025-10-18 21:07:28,discharged,0,Medium,Walk-in
+P27318,Alex Parker,78,Male,Orthopedics,D108,2025-10-18 21:07:29,discharged,3,Low,Walk-in
+P27319,Liam Brown,34,Male,Neurology,D105,2025-10-18 21:07:31,discharged,8,Low,Walk-in
+P27320,Satish Kumar,32,Male,Cardiology,D104,2025-10-18 21:07:31,discharged,4,Medium,Walk-in
+P27321,Priya Sharma,71,Male,Orthopedics,D108,2025-10-18 21:07:31,discharged,9,High,Walk-in
+P27322,Satish Kumar,63,Male,General Medicine,D101,2025-10-18 21:07:37,discharged,5,Medium,Walk-in
+P28323,Priya Sharma,82,Male,Orthopedics,D109,2025-10-18 21:07:39,discharged,1,Low,Walk-in
+P28324,Liam Brown,33,Female,Pediatrics,D100,2025-10-18 21:07:39,discharged,2,Medium,Walk-in
+P28325,Rohit Verma,33,Male,Cardiology,D104,2025-10-18 21:07:40,discharged,7,Low,Walk-in
+P28326,Maya Singh,47,Male,Cardiology,D107,2025-10-18 21:07:40,discharged,4,Medium,Walk-in
+P28327,Liam Brown,82,Female,Orthopedics,D108,2025-10-18 21:07:40,waiting,343,Low,Walk-in
+P28328,Liam Brown,22,Female,Orthopedics,D108,2025-10-18 21:07:43,discharged,6,High,Walk-in
+P28329,Isha Patel,60,Male,Pediatrics,D100,2025-10-18 21:07:43,discharged,10,Medium,Walk-in
+P28330,Priya Sharma,16,Male,General Medicine,D101,2025-10-18 21:07:46,discharged,1,Low,Walk-in
+P28331,Satish Kumar,8,Female,Neurology,D105,2025-10-18 21:07:46,discharged,6,Low,Walk-in
+P28332,Rohit Verma,89,Female,Neurology,D105,2025-10-18 21:07:46,discharged,5,High,Walk-in
+P28333,Maya Singh,43,Male,General Medicine,D101,2025-10-18 21:07:49,discharged,0,Low,Walk-in
+P28334,Aisha Khan,47,Male,Cardiology,D107,2025-10-18 21:07:52,discharged,5,Low,Walk-in
+P28335,Alex Parker,46,Female,Orthopedics,D109,2025-10-18 21:07:52,discharged,2,High,Walk-in
+P28336,Priya Sharma,28,Male,Neurology,D105,2025-10-18 21:07:55,waiting,333,High,Walk-in
+P28337,Alex Parker,45,Male,Orthopedics,D103,2025-10-18 21:07:55,discharged,3,Medium,Walk-in
+P28338,Aisha Khan,9,Female,Cardiology,D104,2025-10-18 21:07:55,discharged,2,High,Walk-in
+P28339,Rohit Verma,23,Female,Cardiology,D107,2025-10-18 21:07:58,waiting,329,Low,Walk-in
+P29340,Rohit Verma,69,Male,Orthopedics,D108,2025-10-18 21:07:59,discharged,10,Low,Walk-in
+P29341,Aisha Khan,25,Male,Neurology,D105,2025-10-18 21:08:01,discharged,3,Medium,Walk-in
+P29342,Aisha Khan,54,Male,Orthopedics,D109,2025-10-18 21:08:01,in_consultation,120,High,Walk-in
+P30343,Maya Singh,59,Male,General Medicine,D101,2025-10-18 21:08:04,discharged,9,Medium,Walk-in
+P30344,Satish Kumar,21,Female,Orthopedics,D109,2025-10-18 21:08:10,discharged,4,High,Walk-in
+P30345,Priya Sharma,51,Female,General Medicine,D101,2025-10-18 21:08:13,discharged,4,Low,Walk-in
+P30346,Liam Brown,68,Male,Orthopedics,D103,2025-10-18 21:08:13,in_consultation,216,High,Walk-in
+P31347,Liam Brown,72,Male,Pediatrics,D102,2025-10-18 21:08:14,discharged,5,Low,Walk-in
+P32348,Priya Sharma,28,Male,Pediatrics,D106,2025-10-18 21:08:19,discharged,3,Medium,Walk-in
+P32349,Liam Brown,25,Male,Cardiology,D104,2025-10-18 21:08:19,discharged,3,Medium,Walk-in
+P32350,Maya Singh,50,Female,General Medicine,D101,2025-10-18 21:08:22,discharged,9,High,Walk-in
+P32351,Priya Sharma,10,Male,Cardiology,D107,2025-10-18 21:08:22,in_consultation,306,Medium,Walk-in
+P32352,Maya Singh,8,Male,Orthopedics,D103,2025-10-18 21:08:22,discharged,5,Low,Walk-in
+P32353,Rohit Verma,58,Female,Neurology,D105,2025-10-18 21:08:28,discharged,0,Medium,Walk-in
+P32354,Maya Singh,86,Female,General Medicine,D101,2025-10-18 21:08:28,discharged,7,Low,Walk-in
+P32355,Maya Singh,65,Female,Orthopedics,D108,2025-10-18 21:08:35,waiting,314,Low,Walk-in
+P32356,Aisha Khan,20,Female,Pediatrics,D102,2025-10-18 21:08:38,discharged,5,High,Walk-in
+P32357,Liam Brown,60,Female,Orthopedics,D108,2025-10-18 21:08:41,discharged,10,Medium,Walk-in
+P32358,Rohit Verma,6,Female,Pediatrics,D102,2025-10-18 21:08:41,in_consultation,229,High,Walk-in
+P32359,Isha Patel,14,Female,Orthopedics,D109,2025-10-18 21:08:41,in_consultation,287,Low,Walk-in
+P32360,Satish Kumar,11,Female,Orthopedics,D108,2025-10-18 21:08:44,discharged,5,Medium,Walk-in
+P32361,Rohit Verma,3,Female,Pediatrics,D106,2025-10-18 21:08:44,waiting,305,High,Walk-in
+P32362,Rohit Verma,48,Female,Orthopedics,D109,2025-10-18 21:08:44,in_consultation,153,Medium,Walk-in
+P33363,Priya Sharma,64,Male,General Medicine,D101,2025-10-18 21:08:44,waiting,305,High,Walk-in
+P33364,Liam Brown,67,Female,Pediatrics,D100,2025-10-18 21:08:44,in_consultation,102,Low,Walk-in
+P33365,Aisha Khan,89,Male,Neurology,D105,2025-10-18 21:08:50,discharged,7,Medium,Walk-in
+P33366,Rohit Verma,20,Male,Orthopedics,D108,2025-10-18 21:08:56,waiting,298,Medium,Walk-in
+P33367,Alex Parker,81,Male,Pediatrics,D102,2025-10-18 21:08:59,discharged,4,High,Walk-in
+P33368,Priya Sharma,23,Female,Pediatrics,D102,2025-10-18 21:08:59,discharged,6,High,Walk-in
+P33369,Maya Singh,76,Female,Cardiology,D104,2025-10-18 21:08:59,discharged,6,High,Walk-in
+P34370,Priya Sharma,75,Male,Neurology,D105,2025-10-18 21:09:00,discharged,4,High,Walk-in
+P34371,Satish Kumar,68,Male,Orthopedics,D103,2025-10-18 21:09:02,in_consultation,258,Low,Walk-in
+P34372,Rohit Verma,69,Male,Orthopedics,D108,2025-10-18 21:09:02,waiting,294,High,Walk-in
+P34373,Liam Brown,33,Female,Cardiology,D104,2025-10-18 21:09:08,discharged,10,Low,Walk-in
+P34374,Satish Kumar,86,Female,Orthopedics,D109,2025-10-18 21:09:08,discharged,8,Medium,Walk-in
+P34375,Priya Sharma,52,Male,Pediatrics,D100,2025-10-18 21:09:08,discharged,3,High,Walk-in
+P34376,Satish Kumar,74,Male,Neurology,D105,2025-10-18 21:09:11,discharged,9,Low,Walk-in
+P34377,Liam Brown,21,Male,Pediatrics,D106,2025-10-18 21:09:11,discharged,1,High,Walk-in
+P34378,Rohit Verma,4,Male,Cardiology,D107,2025-10-18 21:09:14,discharged,10,High,Walk-in
+P34379,Rohit Verma,15,Male,Cardiology,D104,2025-10-18 21:09:14,in_consultation,186,Low,Walk-in
+P35380,Rohit Verma,85,Female,Pediatrics,D106,2025-10-18 21:09:15,waiting,288,Medium,Walk-in
+P35381,Isha Patel,51,Male,Cardiology,D104,2025-10-18 21:09:17,waiting,290,High,Walk-in
+P35382,Rohit Verma,53,Male,Orthopedics,D103,2025-10-18 21:09:17,discharged,9,High,Walk-in
+P36383,Maya Singh,8,Female,Orthopedics,D109,2025-10-18 21:09:20,discharged,1,High,Walk-in
+P36384,Priya Sharma,4,Female,Orthopedics,D108,2025-10-18 21:09:20,discharged,10,Low,Walk-in
+P36385,Satish Kumar,63,Male,Pediatrics,D102,2025-10-18 21:09:20,discharged,2,Low,Walk-in
+P36386,Liam Brown,39,Male,Pediatrics,D106,2025-10-18 21:09:27,discharged,10,High,Walk-in
+P36387,Isha Patel,40,Male,Pediatrics,D106,2025-10-18 21:09:27,waiting,284,Medium,Walk-in
+P36388,Aisha Khan,23,Female,General Medicine,D101,2025-10-18 21:09:27,waiting,281,Low,Walk-in
+P36389,Aisha Khan,85,Female,Orthopedics,D103,2025-10-18 21:09:30,waiting,277,Medium,Walk-in
+P36390,Satish Kumar,1,Male,Pediatrics,D102,2025-10-18 21:09:30,discharged,1,Medium,Walk-in
+P36391,Rohit Verma,33,Male,General Medicine,D101,2025-10-18 21:09:30,in_consultation,183,High,Walk-in
+P36392,Liam Brown,26,Female,Neurology,D105,2025-10-18 21:09:33,in_consultation,252,Medium,Walk-in
+P37393,Aisha Khan,39,Female,Orthopedics,D109,2025-10-18 21:09:35,waiting,280,Low,Walk-in
+P37394,Liam Brown,12,Female,Cardiology,D107,2025-10-18 21:09:35,waiting,274,Medium,Walk-in
+P37395,Isha Patel,5,Female,Orthopedics,D103,2025-10-18 21:09:36,discharged,7,High,Walk-in
+P37396,Priya Sharma,51,Female,Orthopedics,D108,2025-10-18 21:09:39,discharged,4,High,Walk-in
+P37397,Satish Kumar,77,Female,Neurology,D105,2025-10-18 21:09:42,in_consultation,46,Low,Walk-in
+P37398,Maya Singh,77,Male,Neurology,D105,2025-10-18 21:09:42,discharged,0,Medium,Walk-in
+P37399,Satish Kumar,64,Male,Pediatrics,D100,2025-10-18 21:09:45,discharged,8,Low,Walk-in
+P37400,Priya Sharma,42,Male,Pediatrics,D102,2025-10-18 21:09:45,in_consultation,53,High,Walk-in
+P38401,Alex Parker,75,Female,Pediatrics,D100,2025-10-18 21:09:45,waiting,271,High,Walk-in
+P38402,Maya Singh,22,Male,General Medicine,D101,2025-10-18 21:09:51,in_consultation,73,High,Walk-in
+P38403,Priya Sharma,18,Male,Cardiology,D104,2025-10-18 21:09:51,discharged,8,Medium,Walk-in
+P38404,Satish Kumar,75,Female,Neurology,D105,2025-10-18 21:09:54,discharged,7,Low,Walk-in
+P39405,Rohit Verma,4,Female,Orthopedics,D109,2025-10-18 21:09:55,discharged,6,High,Walk-in
+P39406,Alex Parker,29,Male,Orthopedics,D108,2025-10-18 21:09:55,waiting,272,Medium,Walk-in
+P39407,Alex Parker,85,Female,General Medicine,D101,2025-10-18 21:09:57,discharged,4,High,Walk-in
+P39408,Aisha Khan,68,Female,Neurology,D105,2025-10-18 21:09:57,discharged,9,Low,Walk-in
+P39409,Liam Brown,38,Female,Orthopedics,D103,2025-10-18 21:10:00,in_consultation,258,High,Walk-in
+P39410,Aisha Khan,54,Male,Orthopedics,D108,2025-10-18 21:10:00,waiting,269,High,Walk-in
+P39411,Maya Singh,83,Male,Pediatrics,D106,2025-10-18 21:10:00,waiting,262,Low,Walk-in
+P40412,Liam Brown,14,Female,Orthopedics,D108,2025-10-18 21:10:05,in_consultation,256,High,Walk-in
+P40413,Priya Sharma,38,Male,Cardiology,D104,2025-10-18 21:10:05,discharged,10,High,Walk-in
+P40414,Maya Singh,22,Male,General Medicine,D101,2025-10-18 21:10:09,discharged,0,Medium,Walk-in
+P40415,Priya Sharma,67,Female,Cardiology,D104,2025-10-18 21:10:09,discharged,10,High,Walk-in
+P40416,Rohit Verma,7,Male,General Medicine,D101,2025-10-18 21:10:12,discharged,7,Low,Walk-in
+P40417,Liam Brown,13,Female,General Medicine,D101,2025-10-18 21:10:12,discharged,10,Medium,Walk-in
+P40418,Isha Patel,7,Female,Pediatrics,D106,2025-10-18 21:10:15,discharged,6,High,Walk-in
+P40419,Satish Kumar,15,Male,General Medicine,D101,2025-10-18 21:10:15,discharged,4,Medium,Walk-in
+P40420,Rohit Verma,73,Female,Orthopedics,D103,2025-10-18 21:10:15,waiting,259,Medium,Walk-in
+P40421,Aisha Khan,3,Female,Orthopedics,D103,2025-10-18 21:10:18,discharged,5,Low,Walk-in
+P40422,Priya Sharma,24,Male,Cardiology,D107,2025-10-18 21:10:18,discharged,2,Low,Walk-in
+P40423,Rohit Verma,23,Female,Cardiology,D107,2025-10-18 21:10:21,discharged,6,Medium,Walk-in
+P40424,Priya Sharma,83,Female,Orthopedics,D108,2025-10-18 21:10:25,in_consultation,240,Medium,Walk-in
+P40425,Isha Patel,24,Female,Cardiology,D107,2025-10-18 21:10:25,discharged,9,Medium,Walk-in
+P41426,Alex Parker,7,Male,Neurology,D105,2025-10-18 21:10:25,discharged,0,High,Walk-in
+P41427,Liam Brown,8,Male,Neurology,D105,2025-10-18 21:10:25,discharged,8,Medium,Walk-in
+P41428,Liam Brown,60,Male,Pediatrics,D106,2025-10-18 21:10:28,waiting,244,High,Walk-in
+P41429,Priya Sharma,35,Female,Pediatrics,D102,2025-10-18 21:10:34,discharged,0,Medium,Walk-in
+P41430,Liam Brown,16,Female,Cardiology,D104,2025-10-18 21:10:34,waiting,240,High,Walk-in
+P41431,Aisha Khan,20,Male,General Medicine,D101,2025-10-18 21:10:37,waiting,243,Low,Walk-in
+P41432,Priya Sharma,10,Female,General Medicine,D101,2025-10-18 21:10:40,waiting,244,Low,Walk-in
+P41433,Aisha Khan,89,Male,Neurology,D105,2025-10-18 21:10:43,discharged,0,High,Walk-in
+P41434,Rohit Verma,4,Female,Cardiology,D107,2025-10-18 21:10:46,discharged,0,Low,Walk-in
+P41435,Maya Singh,74,Female,Cardiology,D104,2025-10-18 21:10:46,waiting,236,Medium,Walk-in
+P41436,Alex Parker,27,Male,Neurology,D105,2025-10-18 21:10:46,discharged,0,Low,Walk-in
+P41437,Liam Brown,85,Female,Pediatrics,D100,2025-10-18 21:10:49,discharged,10,Medium,Walk-in
+P41438,Aisha Khan,28,Male,Pediatrics,D102,2025-10-18 21:10:49,discharged,9,Medium,Walk-in
+P42439,Aisha Khan,11,Male,Orthopedics,D109,2025-10-18 21:10:51,waiting,234,Low,Walk-in
+P42440,Maya Singh,39,Male,Pediatrics,D106,2025-10-18 21:10:52,in_consultation,207,High,Walk-in
+P42441,Rohit Verma,52,Male,Neurology,D105,2025-10-18 21:10:52,discharged,6,Low,Walk-in
+P43442,Aisha Khan,25,Male,General Medicine,D101,2025-10-18 21:10:56,waiting,235,High,Walk-in
+P43443,Maya Singh,40,Male,Pediatrics,D106,2025-10-18 21:10:56,discharged,4,Low,Walk-in
+P43444,Liam Brown,22,Male,Cardiology,D107,2025-10-18 21:11:01,in_consultation,34,Low,Walk-in
+P43445,Rohit Verma,36,Female,Cardiology,D104,2025-10-18 21:11:04,waiting,240,Low,Walk-in
+P43446,Rohit Verma,79,Female,Orthopedics,D103,2025-10-18 21:11:04,in_consultation,15,Low,Walk-in
+P44447,Aisha Khan,78,Male,Pediatrics,D106,2025-10-18 21:11:06,discharged,2,High,Walk-in
+P44448,Alex Parker,45,Female,Cardiology,D107,2025-10-18 21:11:06,in_consultation,173,Medium,Walk-in
+P44449,Isha Patel,85,Male,Pediatrics,D102,2025-10-18 21:11:07,in_consultation,192,Medium,Walk-in
+P44450,Liam Brown,70,Female,Pediatrics,D106,2025-10-18 21:11:07,discharged,0,Low,Walk-in
+P44451,Alex Parker,67,Female,Orthopedics,D108,2025-10-18 21:11:10,waiting,234,High,Walk-in
+P44452,Alex Parker,82,Female,Neurology,D105,2025-10-18 21:11:10,in_consultation,221,High,Walk-in
+P45453,Liam Brown,56,Female,Pediatrics,D106,2025-10-18 21:11:11,waiting,229,Medium,Walk-in
+P45454,Isha Patel,27,Female,Pediatrics,D100,2025-10-18 21:11:16,waiting,230,High,Walk-in
+P45455,Maya Singh,61,Female,Pediatrics,D102,2025-10-18 21:11:16,discharged,8,High,Walk-in
+P45456,Rohit Verma,42,Male,Orthopedics,D108,2025-10-18 21:11:19,in_consultation,44,Medium,Walk-in
+P45457,Alex Parker,72,Female,Orthopedics,D103,2025-10-18 21:11:19,discharged,10,High,Walk-in
+P45458,Rohit Verma,75,Female,General Medicine,D101,2025-10-18 21:11:23,discharged,5,Medium,Walk-in
+P45459,Maya Singh,16,Male,Cardiology,D107,2025-10-18 21:11:23,waiting,226,Medium,Walk-in
+P45460,Rohit Verma,7,Female,Cardiology,D107,2025-10-18 21:11:23,waiting,223,High,Walk-in
+P45461,Rohit Verma,13,Male,Pediatrics,D100,2025-10-18 21:11:26,discharged,9,High,Walk-in
+P45462,Rohit Verma,56,Male,Orthopedics,D109,2025-10-18 21:11:26,discharged,3,High,Walk-in
+P46463,Alex Parker,60,Male,Orthopedics,D108,2025-10-18 21:11:26,discharged,8,Low,Walk-in
+P46464,Liam Brown,14,Male,Neurology,D105,2025-10-18 21:11:29,waiting,223,Low,Walk-in
+P46465,Alex Parker,89,Female,Pediatrics,D102,2025-10-18 21:11:29,discharged,7,Medium,Walk-in
+P47466,Priya Sharma,26,Female,General Medicine,D101,2025-10-18 21:11:31,in_consultation,129,High,Walk-in
+P47467,Rohit Verma,89,Male,Orthopedics,D103,2025-10-18 21:11:32,waiting,217,High,Walk-in
+P47468,Alex Parker,78,Female,Neurology,D105,2025-10-18 21:11:35,in_consultation,61,Medium,Walk-in
+P47469,Isha Patel,32,Female,Orthopedics,D103,2025-10-18 21:11:38,waiting,209,High,Walk-in
+P47470,Isha Patel,29,Female,Pediatrics,D102,2025-10-18 21:11:41,discharged,2,Medium,Walk-in
+P47471,Priya Sharma,47,Male,Cardiology,D104,2025-10-18 21:11:41,waiting,215,Low,Walk-in
+P47472,Maya Singh,35,Female,Neurology,D105,2025-10-18 21:11:41,waiting,208,Medium,Walk-in
+P47473,Rohit Verma,86,Male,Pediatrics,D102,2025-10-18 21:11:47,discharged,1,Medium,Walk-in
+P47474,Rohit Verma,75,Female,Cardiology,D104,2025-10-18 21:11:47,in_consultation,54,High,Walk-in
+P47475,Rohit Verma,89,Male,Cardiology,D104,2025-10-18 21:11:50,in_consultation,65,Low,Walk-in
+P47476,Maya Singh,50,Female,Orthopedics,D109,2025-10-18 21:11:56,discharged,7,Low,Walk-in
+P47477,Alex Parker,2,Male,Orthopedics,D109,2025-10-18 21:11:56,discharged,2,High,Walk-in
+P48478,Priya Sharma,42,Male,Orthopedics,D103,2025-10-18 21:11:57,discharged,4,Low,Walk-in
+P48479,Aisha Khan,72,Female,Pediatrics,D100,2025-10-18 21:11:57,waiting,202,Medium,Walk-in
+P48480,Alex Parker,71,Male,Orthopedics,D109,2025-10-18 21:11:59,in_consultation,16,High,Walk-in
+P48481,Isha Patel,62,Male,Neurology,D105,2025-10-18 21:11:59,waiting,197,Low,Walk-in
+P48482,Liam Brown,56,Male,Orthopedics,D103,2025-10-18 21:11:59,waiting,196,High,Walk-in
+P49483,Alex Parker,13,Male,Cardiology,D104,2025-10-18 21:12:02,discharged,4,High,Walk-in
+P49484,Liam Brown,38,Female,Cardiology,D104,2025-10-18 21:12:02,in_consultation,175,Low,Walk-in
+P49485,Priya Sharma,48,Female,Neurology,D105,2025-10-18 21:12:02,waiting,196,Low,Walk-in
+P49486,Maya Singh,3,Male,Orthopedics,D108,2025-10-18 21:12:05,discharged,1,Medium,Walk-in
+P50487,Aisha Khan,62,Female,Orthopedics,D109,2025-10-18 21:12:07,waiting,194,Low,Walk-in
+P50488,Priya Sharma,73,Female,Orthopedics,D103,2025-10-18 21:12:09,waiting,192,High,Walk-in
+P50489,Satish Kumar,82,Female,Orthopedics,D108,2025-10-18 21:12:09,discharged,7,High,Walk-in
+P50490,Liam Brown,26,Male,Neurology,D105,2025-10-18 21:12:15,discharged,7,Low,Walk-in
+P50491,Priya Sharma,28,Female,Neurology,D105,2025-10-18 21:12:15,discharged,9,Low,Walk-in
+P50492,Liam Brown,81,Male,Neurology,D105,2025-10-18 21:12:15,in_consultation,12,Low,Walk-in
+P51493,Maya Singh,53,Male,Orthopedics,D103,2025-10-18 21:12:17,discharged,8,Low,Walk-in
+P51494,Rohit Verma,40,Male,Cardiology,D107,2025-10-18 21:12:18,waiting,194,Low,Walk-in
+P51495,Satish Kumar,25,Female,General Medicine,D101,2025-10-18 21:12:18,discharged,0,Medium,Walk-in
+P52496,Rohit Verma,6,Male,Cardiology,D104,2025-10-18 21:12:22,waiting,182,High,Walk-in
+P52497,Liam Brown,81,Female,General Medicine,D101,2025-10-18 21:12:24,waiting,180,Medium,Walk-in
+P52498,Isha Patel,60,Female,Pediatrics,D106,2025-10-18 21:12:27,waiting,180,Low,Walk-in
+P52499,Satish Kumar,53,Male,Orthopedics,D103,2025-10-18 21:12:30,waiting,186,High,Walk-in
+P53500,Alex Parker,57,Male,General Medicine,D101,2025-10-18 21:12:32,waiting,175,Low,Walk-in
+P53501,Maya Singh,3,Female,Orthopedics,D108,2025-10-18 21:12:33,discharged,9,Low,Walk-in
+P53502,Priya Sharma,46,Female,Cardiology,D107,2025-10-18 21:12:42,in_consultation,74,High,Walk-in
+P54503,Priya Sharma,10,Female,Pediatrics,D102,2025-10-18 21:12:47,discharged,5,Medium,Walk-in
+P54504,Aisha Khan,4,Female,Pediatrics,D106,2025-10-18 21:12:47,waiting,161,Medium,Walk-in
+P54505,Alex Parker,37,Female,Neurology,D105,2025-10-18 21:12:48,waiting,157,Medium,Walk-in
+P54506,Maya Singh,16,Female,Cardiology,D107,2025-10-18 21:12:51,waiting,156,Medium,Walk-in
+P54507,Liam Brown,44,Female,Pediatrics,D102,2025-10-18 21:12:51,discharged,3,Low,Walk-in
+P55508,Aisha Khan,62,Female,General Medicine,D101,2025-10-18 21:12:52,in_consultation,142,High,Walk-in
+P55509,Isha Patel,3,Male,Orthopedics,D109,2025-10-18 21:12:55,discharged,0,Medium,Walk-in
+P55510,Alex Parker,14,Male,Orthopedics,D103,2025-10-18 21:12:55,in_consultation,137,High,Walk-in
+P55511,Rohit Verma,49,Female,Orthopedics,D103,2025-10-18 21:12:55,waiting,161,Low,Walk-in
+P55512,Aisha Khan,75,Male,Pediatrics,D102,2025-10-18 21:13:01,waiting,158,Medium,Walk-in
+P55513,Isha Patel,19,Female,Pediatrics,D102,2025-10-18 21:13:01,waiting,157,High,Walk-in
+P55514,Priya Sharma,44,Female,Pediatrics,D100,2025-10-18 21:13:01,in_consultation,38,Low,Walk-in
+P55515,Isha Patel,70,Male,Orthopedics,D109,2025-10-18 21:13:04,waiting,155,Medium,Walk-in
+P55516,Priya Sharma,46,Male,General Medicine,D101,2025-10-18 21:13:10,waiting,150,High,Walk-in
+P55517,Alex Parker,50,Male,Orthopedics,D108,2025-10-18 21:13:13,discharged,6,Low,Walk-in
+P55518,Isha Patel,59,Male,Pediatrics,D100,2025-10-18 21:13:13,waiting,149,Medium,Walk-in
+P55519,Isha Patel,49,Male,Orthopedics,D103,2025-10-18 21:13:16,discharged,9,Medium,Walk-in
+P55520,Rohit Verma,11,Female,Cardiology,D104,2025-10-18 21:13:16,waiting,141,Medium,Walk-in
+P55521,Aisha Khan,48,Female,Orthopedics,D108,2025-10-18 21:13:16,waiting,142,Low,Walk-in
+P55522,Aisha Khan,52,Male,Orthopedics,D108,2025-10-18 21:13:19,waiting,148,Medium,Walk-in
+P55523,Liam Brown,79,Male,Cardiology,D107,2025-10-18 21:13:25,waiting,137,Medium,Walk-in
+P55524,Priya Sharma,81,Female,Cardiology,D107,2025-10-18 21:13:25,waiting,144,Low,Walk-in
+P55525,Maya Singh,18,Female,Neurology,D105,2025-10-18 21:13:25,discharged,5,Medium,Walk-in
+P55526,Maya Singh,32,Male,Orthopedics,D103,2025-10-18 21:13:28,waiting,138,Medium,Walk-in
+P55527,Liam Brown,42,Male,Pediatrics,D102,2025-10-18 21:13:28,in_consultation,118,High,Walk-in
+P55528,Satish Kumar,26,Male,Pediatrics,D100,2025-10-18 21:13:31,discharged,8,High,Walk-in
+P55529,Aisha Khan,60,Male,Cardiology,D107,2025-10-18 21:13:31,waiting,136,Low,Walk-in
+P55530,Liam Brown,43,Male,Orthopedics,D103,2025-10-18 21:13:34,discharged,5,High,Walk-in
+P55531,Isha Patel,71,Male,Pediatrics,D100,2025-10-18 21:13:40,waiting,132,Medium,Walk-in
+P55532,Maya Singh,23,Male,Orthopedics,D108,2025-10-18 21:13:40,in_consultation,92,Low,Walk-in
+P55533,Liam Brown,56,Male,Cardiology,D104,2025-10-18 21:13:40,waiting,128,High,Walk-in
+P56534,Liam Brown,88,Female,Cardiology,D107,2025-10-18 21:13:43,waiting,127,Medium,Walk-in
+P56535,Alex Parker,39,Female,Pediatrics,D102,2025-10-18 21:13:43,in_consultation,22,Low,Walk-in
+P56536,Alex Parker,18,Male,Neurology,D105,2025-10-18 21:13:43,waiting,134,Medium,Walk-in
+P56537,Rohit Verma,36,Male,Orthopedics,D109,2025-10-18 21:13:43,waiting,133,Medium,Walk-in
+P56538,Priya Sharma,45,Male,Orthopedics,D108,2025-10-18 21:13:46,waiting,130,Medium,Walk-in
+P56539,Satish Kumar,51,Male,Cardiology,D107,2025-10-18 21:13:49,waiting,119,Medium,Walk-in
+P56540,Aisha Khan,87,Female,Orthopedics,D103,2025-10-18 21:13:52,waiting,119,Medium,Walk-in
+P56541,Satish Kumar,20,Female,Pediatrics,D102,2025-10-18 21:13:52,waiting,125,High,Walk-in
+P56542,Priya Sharma,70,Female,Orthopedics,D103,2025-10-18 21:13:52,waiting,121,High,Walk-in
+P56543,Maya Singh,74,Male,Orthopedics,D108,2025-10-18 21:13:55,in_consultation,102,High,Walk-in
+P56544,Alex Parker,68,Male,Orthopedics,D109,2025-10-18 21:13:55,in_consultation,101,Medium,Walk-in
+P56545,Alex Parker,35,Male,Orthopedics,D103,2025-10-18 21:13:55,waiting,118,Low,Walk-in
+P56546,Aisha Khan,74,Female,General Medicine,D101,2025-10-18 21:13:58,waiting,117,High,Walk-in
+P56547,Isha Patel,12,Male,Orthopedics,D103,2025-10-18 21:13:58,waiting,111,High,Walk-in
+P56548,Alex Parker,86,Female,General Medicine,D101,2025-10-18 21:14:02,waiting,117,Low,Walk-in
+P56549,Rohit Verma,83,Male,Orthopedics,D103,2025-10-18 21:14:02,in_consultation,29,Medium,Walk-in
+P56550,Isha Patel,19,Male,Orthopedics,D109,2025-10-18 21:14:02,waiting,109,High,Walk-in
+P57551,Rohit Verma,90,Male,Neurology,D105,2025-10-18 21:14:03,waiting,112,Low,Walk-in
+P57552,Rohit Verma,5,Male,Orthopedics,D109,2025-10-18 21:14:03,waiting,116,High,Walk-in
+P57553,Liam Brown,76,Female,Orthopedics,D108,2025-10-18 21:14:05,waiting,109,High,Walk-in
+P57554,Liam Brown,31,Male,Orthopedics,D103,2025-10-18 21:14:05,waiting,107,Medium,Walk-in
+P57555,Isha Patel,88,Female,Pediatrics,D100,2025-10-18 21:14:05,waiting,109,Low,Walk-in
+P57556,Rohit Verma,22,Male,Cardiology,D104,2025-10-18 21:14:08,in_consultation,83,High,Walk-in
+P57557,Satish Kumar,32,Male,Orthopedics,D103,2025-10-18 21:14:08,in_consultation,64,Medium,Walk-in
+P57558,Aisha Khan,20,Female,Orthopedics,D109,2025-10-18 21:14:08,waiting,111,High,Walk-in
+P58559,Rohit Verma,39,Female,General Medicine,D101,2025-10-18 21:14:08,waiting,108,Medium,Walk-in
+P58560,Rohit Verma,15,Male,General Medicine,D101,2025-10-18 21:14:08,in_consultation,43,Medium,Walk-in
+P58561,Aisha Khan,80,Female,Pediatrics,D106,2025-10-18 21:14:11,waiting,107,High,Walk-in
+P58562,Rohit Verma,33,Male,Neurology,D105,2025-10-18 21:14:11,waiting,113,Low,Walk-in
+P58563,Maya Singh,9,Female,General Medicine,D101,2025-10-18 21:14:14,waiting,113,Low,Walk-in
+P58564,Priya Sharma,25,Female,Orthopedics,D103,2025-10-18 21:14:14,waiting,107,Low,Walk-in
+P58565,Liam Brown,24,Female,Cardiology,D104,2025-10-18 21:14:17,waiting,107,High,Walk-in
+P58566,Liam Brown,85,Male,Orthopedics,D103,2025-10-18 21:14:17,waiting,109,Low,Walk-in
+P59567,Liam Brown,46,Male,Pediatrics,D102,2025-10-18 21:14:18,waiting,102,Medium,Walk-in
+P59568,Satish Kumar,5,Female,General Medicine,D101,2025-10-18 21:14:23,waiting,104,High,Walk-in
+P59569,Priya Sharma,81,Female,Pediatrics,D102,2025-10-18 21:14:23,waiting,105,Medium,Walk-in
+P60570,Alex Parker,60,Male,Cardiology,D104,2025-10-18 21:14:23,waiting,98,Medium,Walk-in
+P60571,Aisha Khan,49,Female,Cardiology,D104,2025-10-18 21:14:23,waiting,107,High,Walk-in
+P60572,Isha Patel,5,Male,Orthopedics,D103,2025-10-18 21:14:26,waiting,104,Medium,Walk-in
+P60573,Aisha Khan,32,Male,Orthopedics,D108,2025-10-18 21:14:26,in_consultation,33,Medium,Walk-in
+P61574,Aisha Khan,1,Female,Neurology,D105,2025-10-18 21:14:28,waiting,101,Low,Walk-in
+P61575,Priya Sharma,62,Female,Neurology,D105,2025-10-18 21:14:38,waiting,87,Medium,Walk-in
+P61576,Satish Kumar,55,Female,Pediatrics,D102,2025-10-18 21:14:38,waiting,92,Medium,Walk-in
+P61577,Maya Singh,21,Female,General Medicine,D101,2025-10-18 21:14:38,waiting,94,Medium,Walk-in
+P61578,Rohit Verma,39,Male,Orthopedics,D103,2025-10-18 21:14:41,discharged,7,Medium,Walk-in
+P61579,Maya Singh,49,Female,Orthopedics,D109,2025-10-18 21:14:41,waiting,85,Medium,Walk-in
+P61580,Liam Brown,66,Female,Cardiology,D107,2025-10-18 21:14:44,waiting,85,High,Walk-in
+P61581,Rohit Verma,35,Female,Orthopedics,D108,2025-10-18 21:14:44,discharged,2,Low,Walk-in
+P61582,Priya Sharma,7,Male,Orthopedics,D109,2025-10-18 21:14:47,waiting,85,Low,Walk-in
+P61583,Satish Kumar,78,Male,Pediatrics,D106,2025-10-18 21:14:47,waiting,79,High,Walk-in
+P62584,Liam Brown,19,Female,Pediatrics,D106,2025-10-18 21:14:48,in_consultation,42,Medium,Walk-in
+P62585,Maya Singh,26,Male,Orthopedics,D108,2025-10-18 21:14:50,waiting,78,Medium,Walk-in
+P62586,Isha Patel,4,Female,Cardiology,D107,2025-10-18 21:14:50,waiting,80,Low,Walk-in
+P62587,Isha Patel,66,Male,Pediatrics,D106,2025-10-18 21:14:50,waiting,85,Medium,Walk-in
+P62588,Isha Patel,40,Male,Cardiology,D104,2025-10-18 21:14:56,waiting,81,Medium,Walk-in
+P62589,Maya Singh,25,Female,Orthopedics,D108,2025-10-18 21:14:59,waiting,71,Medium,Walk-in
+P62590,Aisha Khan,5,Female,General Medicine,D101,2025-10-18 21:14:59,discharged,0,High,Walk-in
+P62591,Priya Sharma,36,Female,Cardiology,D107,2025-10-18 21:14:59,waiting,73,High,Walk-in
+P62592,Priya Sharma,76,Female,Pediatrics,D100,2025-10-18 21:15:02,in_consultation,42,High,Walk-in
+P62593,Liam Brown,40,Male,Cardiology,D107,2025-10-18 21:15:02,in_consultation,17,Low,Walk-in
+P62594,Liam Brown,46,Male,Neurology,D105,2025-10-18 21:15:02,waiting,71,Medium,Walk-in
+P63595,Aisha Khan,52,Male,Cardiology,D107,2025-10-18 21:15:04,discharged,7,Low,Walk-in
+P63596,Liam Brown,69,Female,Cardiology,D107,2025-10-18 21:15:04,waiting,66,Medium,Walk-in
+P63597,Alex Parker,41,Female,Cardiology,D107,2025-10-18 21:15:05,waiting,64,Medium,Walk-in
+P63598,Isha Patel,2,Female,Orthopedics,D103,2025-10-18 21:15:05,waiting,72,High,Walk-in
+P63599,Priya Sharma,7,Male,Orthopedics,D103,2025-10-18 21:15:05,discharged,3,Low,Walk-in
+P63600,Aisha Khan,43,Female,Pediatrics,D100,2025-10-18 21:15:08,waiting,65,Low,Walk-in
+P63601,Aisha Khan,89,Female,Orthopedics,D103,2025-10-18 21:15:08,waiting,70,Low,Walk-in
+P63602,Priya Sharma,46,Female,Cardiology,D107,2025-10-18 21:15:11,waiting,64,Low,Walk-in
+P64603,Maya Singh,10,Male,Pediatrics,D100,2025-10-18 21:15:14,waiting,69,Low,Walk-in
+P64604,Liam Brown,64,Female,Neurology,D105,2025-10-18 21:15:14,waiting,62,Low,Walk-in
+P64605,Priya Sharma,81,Female,General Medicine,D101,2025-10-18 21:15:15,in_consultation,50,Low,Walk-in
+P64606,Alex Parker,6,Female,Orthopedics,D103,2025-10-18 21:15:18,waiting,60,High,Walk-in
+P64607,Satish Kumar,35,Male,Neurology,D105,2025-10-18 21:15:18,waiting,62,Medium,Walk-in
+P64608,Priya Sharma,2,Male,General Medicine,D101,2025-10-18 21:15:21,waiting,55,High,Walk-in
+P64609,Maya Singh,29,Male,Orthopedics,D109,2025-10-18 21:15:24,waiting,60,High,Walk-in
+P64610,Maya Singh,59,Male,Pediatrics,D102,2025-10-18 21:15:24,waiting,57,High,Walk-in
+P64611,Alex Parker,19,Female,Pediatrics,D100,2025-10-18 21:15:24,in_consultation,27,Medium,Walk-in
+P64612,Satish Kumar,83,Male,General Medicine,D101,2025-10-18 21:15:27,waiting,56,High,Walk-in
+P64613,Priya Sharma,33,Male,Pediatrics,D106,2025-10-18 21:15:27,waiting,56,Medium,Walk-in
+P64614,Satish Kumar,1,Female,Cardiology,D104,2025-10-18 21:15:27,waiting,56,Medium,Walk-in
+P64615,Maya Singh,74,Female,General Medicine,D101,2025-10-18 21:15:30,waiting,50,Low,Walk-in
+P64616,Alex Parker,33,Male,Pediatrics,D100,2025-10-18 21:15:33,waiting,56,High,Walk-in
+P64617,Priya Sharma,14,Male,Pediatrics,D102,2025-10-18 21:15:33,waiting,50,Low,Walk-in
+P64618,Priya Sharma,58,Female,Orthopedics,D109,2025-10-18 21:15:33,waiting,53,High,Walk-in
+P65619,Maya Singh,61,Male,Pediatrics,D102,2025-10-18 21:15:34,waiting,52,Low,Walk-in
+P65620,Liam Brown,81,Male,Orthopedics,D103,2025-10-18 21:15:34,waiting,53,High,Walk-in
+P65621,Isha Patel,44,Female,Pediatrics,D102,2025-10-18 21:15:36,waiting,51,High,Walk-in
+P66622,Priya Sharma,36,Male,Pediatrics,D102,2025-10-18 21:15:39,in_consultation,21,Low,Walk-in
+P66623,Aisha Khan,75,Male,Pediatrics,D102,2025-10-18 21:15:39,waiting,48,Low,Walk-in
+P67624,Aisha Khan,7,Male,Cardiology,D107,2025-10-18 21:15:44,waiting,39,Low,Walk-in
+P67625,Maya Singh,11,Male,Neurology,D105,2025-10-18 21:15:44,waiting,47,Low,Walk-in
+P67626,Isha Patel,68,Male,Neurology,D105,2025-10-18 21:15:45,waiting,41,High,Walk-in
+P67627,Priya Sharma,68,Male,General Medicine,D101,2025-10-18 21:15:48,waiting,42,High,Walk-in
+P67628,Rohit Verma,52,Male,Orthopedics,D103,2025-10-18 21:15:48,waiting,41,Low,Walk-in
+P67629,Rohit Verma,63,Male,Orthopedics,D108,2025-10-18 21:15:48,waiting,40,Medium,Walk-in
+P68630,Liam Brown,46,Female,Pediatrics,D106,2025-10-18 21:15:49,waiting,41,Low,Walk-in
+P68631,Rohit Verma,9,Male,General Medicine,D101,2025-10-18 21:15:49,waiting,46,High,Walk-in
+P68632,Priya Sharma,37,Male,Cardiology,D104,2025-10-18 21:15:51,waiting,44,High,Walk-in
+P68633,Alex Parker,54,Male,General Medicine,D101,2025-10-18 21:15:57,waiting,38,High,Walk-in
+P68634,Aisha Khan,30,Male,Neurology,D105,2025-10-18 21:15:57,waiting,42,High,Walk-in
+P68635,Alex Parker,7,Female,Orthopedics,D109,2025-10-18 21:15:57,in_consultation,22,Medium,Walk-in
+P69636,Rohit Verma,32,Male,Pediatrics,D102,2025-10-18 21:15:59,waiting,32,Low,Walk-in
+P69637,Rohit Verma,10,Male,Pediatrics,D102,2025-10-18 21:15:59,waiting,38,Low,Walk-in
+P69638,Aisha Khan,83,Male,Pediatrics,D100,2025-10-18 21:16:00,waiting,38,Low,Walk-in
+P69639,Rohit Verma,47,Female,Orthopedics,D109,2025-10-18 21:16:03,waiting,35,Low,Walk-in
+P69640,Rohit Verma,18,Male,General Medicine,D101,2025-10-18 21:16:06,waiting,33,Low,Walk-in
+P69641,Aisha Khan,4,Male,Cardiology,D104,2025-10-18 21:16:09,waiting,30,Medium,Walk-in
+P69642,Rohit Verma,55,Female,Cardiology,D107,2025-10-18 21:16:09,waiting,27,Medium,Walk-in
+P69643,Maya Singh,49,Female,Orthopedics,D103,2025-10-18 21:16:09,waiting,34,Low,Walk-in
+P69644,Aisha Khan,11,Female,Pediatrics,D100,2025-10-18 21:16:12,waiting,31,Medium,Walk-in
+P69645,Satish Kumar,29,Male,Cardiology,D107,2025-10-18 21:16:15,waiting,25,Low,Walk-in
+P69646,Aisha Khan,53,Female,Pediatrics,D106,2025-10-18 21:16:15,waiting,20,Medium,Walk-in
+P69647,Aisha Khan,29,Male,Pediatrics,D106,2025-10-18 21:16:15,waiting,22,High,Walk-in
+P69648,Isha Patel,89,Male,Orthopedics,D109,2025-10-18 21:16:18,waiting,20,High,Walk-in
+P69649,Liam Brown,65,Male,Pediatrics,D106,2025-10-18 21:16:18,waiting,23,High,Walk-in
+P69650,Liam Brown,57,Female,Orthopedics,D108,2025-10-18 21:16:25,waiting,17,Medium,Walk-in
+P70651,Alex Parker,83,Female,Neurology,D105,2025-10-18 21:16:29,waiting,19,Low,Walk-in
+P70652,Aisha Khan,72,Female,Orthopedics,D108,2025-10-18 21:16:31,waiting,13,High,Walk-in
+P70653,Priya Sharma,78,Male,Neurology,D105,2025-10-18 21:16:31,waiting,12,High,Walk-in
+P70654,Rohit Verma,19,Male,Cardiology,D107,2025-10-18 21:16:34,waiting,13,Medium,Walk-in
+P70655,Isha Patel,10,Male,General Medicine,D101,2025-10-18 21:16:37,waiting,9,Low,Walk-in
+P70656,Maya Singh,76,Female,Pediatrics,D102,2025-10-18 21:16:37,waiting,11,High,Walk-in
+P71657,Aisha Khan,54,Male,Pediatrics,D106,2025-10-18 21:16:39,in_consultation,4,Medium,Walk-in
+P71658,Alex Parker,4,Female,Orthopedics,D103,2025-10-18 21:16:39,waiting,7,Low,Walk-in
+P71659,Maya Singh,67,Male,Pediatrics,D100,2025-10-18 21:16:40,waiting,10,High,Walk-in
+P71660,Alex Parker,35,Female,Orthopedics,D103,2025-10-18 21:16:40,waiting,5,Medium,Walk-in
+P71661,Liam Brown,88,Female,Orthopedics,D109,2025-10-18 21:16:43,waiting,10,Low,Walk-in
+P71662,Liam Brown,11,Female,Cardiology,D107,2025-10-18 21:16:43,waiting,7,High,Walk-in
+P71663,Aisha Khan,5,Female,Orthopedics,D108,2025-10-18 21:16:43,waiting,7,Low,Walk-in
+P72664,Liam Brown,70,Male,Neurology,D105,2025-10-18 21:16:44,waiting,7,Low,Walk-in
+P72665,Aisha Khan,8,Male,Orthopedics,D108,2025-10-18 21:16:44,waiting,3,High,Walk-in
+P72666,Liam Brown,62,Female,Cardiology,D107,2025-10-18 21:16:46,waiting,6,Medium,Walk-in
