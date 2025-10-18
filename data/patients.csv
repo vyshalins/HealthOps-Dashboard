@@ -1,0 +1,195 @@
+patient_id,name,age,gender,dept,doctor_id,arrival_time,status,waiting_time_mins,triage_level,reason
+P1000,Melinda Harmon,8,Male,Orthopedics,D109,2025-10-18 15:45:00,in_consultation,3,Low,Wind gas ground show list.
+P1001,Sherry Peterson,12,Male,Cardiology,D104,2025-10-18 10:11:00,waiting,141,Low,Detail strategy three remain.
+P1002,Craig Nguyen,47,Male,Pediatrics,D102,2025-10-18 13:45:00,discharged,5,Medium,Skin throw tell.
+P1003,Mia Barker,1,Female,Orthopedics,D103,2025-10-18 09:40:00,discharged,14,Low,History involve green or.
+P1004,Chad Salinas,12,Female,General Medicine,D101,2025-10-18 10:54:00,in_consultation,70,Medium,His despite popular necessary side.
+P1005,Kenneth Hunt,75,Female,Orthopedics,D109,2025-10-18 13:46:00,discharged,29,Low,Spring ahead product media.
+P1006,Lisa Hensley,87,Female,Orthopedics,D109,2025-10-18 15:39:00,discharged,8,Low,Audience hold.
+P1007,Jamie May,72,Female,Pediatrics,D106,2025-10-18 13:24:00,in_consultation,34,Medium,Future shoulder coach story.
+P1008,Joseph Fitzpatrick,6,Female,Pediatrics,D102,2025-10-18 13:53:00,discharged,5,Low,Carry budget plant capital.
+P1009,Victoria Jimenez,80,Female,Pediatrics,D106,2025-10-18 15:17:00,discharged,8,Low,Mr especially bed.
+P1010,Kimberly Espinoza,77,Female,Orthopedics,D109,2025-10-18 10:58:00,discharged,1,Medium,Debate center reason.
+P1011,Brenda Castro,0,Male,Pediatrics,D100,2025-10-18 14:42:00,discharged,5,Low,Us wish health seat protect.
+P1012,Mr. Ronald Acosta PhD,80,Female,Pediatrics,D100,2025-10-18 08:18:00,waiting,67,Medium,Manager test gun pull treatment.
+P1013,Kara Hill,16,Female,Pediatrics,D106,2025-10-18 10:45:00,discharged,1,High,Skin pay red.
+P1014,Kristen Vang,54,Female,Pediatrics,D102,2025-10-18 14:51:00,in_consultation,39,Low,Reach road rich fund other.
+P1015,Beth Howard,39,Male,General Medicine,D101,2025-10-18 15:32:00,discharged,3,Medium,Growth agreement not she brother.
+P1016,Andrew Johnson,81,Male,Pediatrics,D106,2025-10-18 15:15:00,discharged,4,Low,Deal experience political especially scene.
+P1017,John Taylor,1,Female,Orthopedics,D103,2025-10-18 11:17:00,discharged,4,Medium,Mind appear score long throughout.
+P1018,Loretta Scott,11,Male,Neurology,D105,2025-10-18 08:07:00,discharged,1,Medium,Point daughter as fast might.
+P1019,Pamela Carroll,67,Female,Orthopedics,D108,2025-10-18 09:50:00,discharged,2,Medium,Several former population stuff walk.
+P1020,Matthew Newton,23,Female,Cardiology,D104,2025-10-18 14:44:00,discharged,5,Low,Young fear fact entire car.
+P1021,Rebecca Ferguson,59,Female,Orthopedics,D108,2025-10-18 11:57:00,in_consultation,65,Medium,Buy candidate rise leader.
+P1022,Dalton Aguilar,27,Female,Cardiology,D104,2025-10-18 15:44:00,in_consultation,9,Low,Enough century song bar floor.
+P1023,Vicki Johnson,84,Male,Pediatrics,D102,2025-10-18 13:10:00,discharged,4,Low,Security series way think.
+P1024,Stephanie Robinson,48,Female,Neurology,D105,2025-10-18 08:10:00,discharged,1,High,War improve cell film show.
+P1025,Gina Thomas,5,Female,Pediatrics,D106,2025-10-18 08:11:00,waiting,110,Low,Eat cost score compare.
+P1026,Austin White,47,Male,Cardiology,D107,2025-10-18 12:11:00,waiting,133,Low,Discover head us then provide.
+P1027,Teresa Davis,23,Female,Cardiology,D104,2025-10-18 08:55:00,waiting,127,Medium,Tax industry scientist building.
+P1028,Monica Lee,0,Female,Orthopedics,D103,2025-10-18 11:18:00,in_consultation,90,Medium,Culture both avoid.
+P1029,Emily Castro,14,Male,Cardiology,D107,2025-10-18 14:25:00,discharged,0,Low,Character writer entire attack.
+P1030,Molly Martinez,3,Male,Neurology,D105,2025-10-18 14:59:00,waiting,66,Low,Newspaper body.
+P1031,Stephen Walsh,30,Male,General Medicine,D101,2025-10-18 14:59:00,in_consultation,73,Low,Probably institution dark note.
+P1032,Thomas Christensen,76,Male,General Medicine,D101,2025-10-18 11:02:00,in_consultation,74,Low,Agreement walk certainly think must.
+P1033,Jimmy Mays,65,Female,Cardiology,D107,2025-10-18 10:55:00,in_consultation,83,Low,By media firm to.
+P1034,Carrie Smith,61,Female,Cardiology,D104,2025-10-18 08:30:00,discharged,17,High,Order seek.
+P1035,Nathan Cameron,17,Female,Pediatrics,D100,2025-10-18 15:50:00,waiting,121,Low,Manager to almost.
+P1036,Bryan Ramos,18,Male,Cardiology,D104,2025-10-18 08:56:00,in_consultation,36,High,Today land already travel.
+P1037,Lacey Hall,38,Male,Pediatrics,D106,2025-10-18 12:13:00,in_consultation,97,Low,About partner attention score little.
+P1038,Beth Gonzalez,12,Female,Neurology,D105,2025-10-18 11:11:00,in_consultation,103,Low,Mean notice buy.
+P1039,Joseph Gibson,48,Female,Pediatrics,D100,2025-10-18 09:08:00,waiting,112,Medium,Would public style inside size.
+P1040,Laura Buchanan,86,Male,Pediatrics,D106,2025-10-18 13:17:00,waiting,123,Low,Picture customer ok bad.
+P1041,John Carpenter,49,Female,Pediatrics,D106,2025-10-18 15:12:00,discharged,9,High,Country or Democrat reality painting.
+P1042,Heather Alvarez,47,Male,Orthopedics,D103,2025-10-18 15:13:00,in_consultation,91,Medium,Total step down.
+P1043,Larry Hanson,80,Female,General Medicine,D101,2025-10-18 10:54:00,waiting,94,Low,Article what day especially.
+P1044,Karl Flores,69,Male,Cardiology,D104,2025-10-18 11:21:00,in_consultation,44,Medium,Hair push analysis strong be.
+P1045,Matthew Wilson,83,Female,Neurology,D105,2025-10-18 15:41:00,discharged,9,Low,Here again remember detail pressure.
+P1046,Maria Scott,49,Male,Neurology,D105,2025-10-18 11:01:00,discharged,5,Medium,Military south in color control.
+P1047,Rhonda Stevens,6,Male,Orthopedics,D109,2025-10-18 11:09:00,in_consultation,65,Medium,Hotel edge color.
+P1048,Adrian Payne,90,Male,Pediatrics,D100,2025-10-18 13:31:00,discharged,3,Low,Than land oil.
+P1049,April Smith,2,Male,Pediatrics,D106,2025-10-18 14:38:00,discharged,6,Low,Church yet actually his.
+P1050,Anthony Ortiz,22,Male,Pediatrics,D102,2025-10-18 08:41:00,discharged,10,Medium,Statement oil.
+P1051,Brandon Kidd,9,Male,Orthopedics,D103,2025-10-18 15:33:00,discharged,12,Medium,Show pick expect our.
+P1052,Martin Scott,22,Female,Cardiology,D104,2025-10-18 14:39:00,in_consultation,81,Low,Fish mention money feel less.
+P1053,David James,72,Female,General Medicine,D101,2025-10-18 14:10:00,waiting,73,High,Store rate suffer production his.
+P1054,Linda Dennis,35,Female,Cardiology,D107,2025-10-18 12:58:00,in_consultation,13,Medium,Meeting charge think remember.
+P1055,Ashley Davis,2,Male,Cardiology,D104,2025-10-18 08:50:00,discharged,20,High,Couple prove nature.
+P1056,Matthew Wells,34,Male,Pediatrics,D100,2025-10-18 09:30:00,waiting,71,Low,Live south century away.
+P1057,Brett Yates,83,Female,Orthopedics,D109,2025-10-18 08:37:00,in_consultation,67,Low,Clearly unit.
+P1058,Adrienne Adams,90,Male,Orthopedics,D109,2025-10-18 13:46:00,waiting,84,Low,You task difficult.
+P1059,Stephanie Reed,55,Male,Orthopedics,D108,2025-10-18 14:41:00,in_consultation,61,Low,I off thus single.
+P1060,Megan Brown,69,Female,Pediatrics,D102,2025-10-18 15:23:00,waiting,141,Medium,Hand go.
+P1061,Karl Klein,10,Female,Cardiology,D107,2025-10-18 12:27:00,discharged,10,Medium,Forward wife reduce also.
+P1062,Dr. Anthony Garcia,82,Male,Orthopedics,D109,2025-10-18 15:21:00,discharged,14,Low,Fear together him.
+P1063,David Mills DVM,83,Male,Orthopedics,D109,2025-10-18 11:40:00,discharged,7,Medium,Edge civil seek.
+P1064,Jennifer Lloyd,81,Male,Pediatrics,D106,2025-10-18 12:30:00,waiting,123,Low,Spend until as.
+P1065,Mandy Hinton,72,Female,Pediatrics,D102,2025-10-18 15:04:00,waiting,115,High,Run success continue.
+P1066,Lindsay Snow,24,Male,Orthopedics,D109,2025-10-18 13:12:00,waiting,84,Low,Free nothing without.
+P1067,Vernon Phillips,7,Female,Pediatrics,D100,2025-10-18 10:03:00,discharged,1,High,Enter claim miss window.
+P1068,Michael Michael,29,Male,Orthopedics,D103,2025-10-18 10:55:00,discharged,4,High,Few experience small understand house.
+P1069,Jermaine Thomas,34,Female,Neurology,D105,2025-10-18 15:20:00,discharged,4,Medium,Bit hour.
+P1070,Eric Edwards,18,Male,Pediatrics,D100,2025-10-18 12:01:00,in_consultation,33,Low,Husband almost.
+P1071,Nicholas Morrison,10,Female,Orthopedics,D103,2025-10-18 09:06:00,discharged,9,Medium,Talk travel point.
+P1072,Brian Perry,78,Female,Neurology,D105,2025-10-18 10:21:00,discharged,25,Low,Chance teach.
+P1073,Jason Mendoza,47,Female,Pediatrics,D100,2025-10-18 08:37:00,discharged,0,Low,Again natural plant think.
+P1074,Hannah Hardy,12,Female,Orthopedics,D108,2025-10-18 14:18:00,in_consultation,44,Low,Bill available all war.
+P1075,Anthony Kim,90,Male,Orthopedics,D109,2025-10-18 14:20:00,discharged,5,Low,Information either perhaps ask.
+P1076,Rebecca Contreras,55,Female,Cardiology,D107,2025-10-18 09:40:00,waiting,150,Low,Window remain page ability different.
+P1077,Gregory Hurst,15,Male,Cardiology,D104,2025-10-18 14:13:00,discharged,6,Low,Such may others yes.
+P1078,Ann Adams,29,Male,General Medicine,D101,2025-10-18 14:23:00,in_consultation,28,Medium,Win adult hospital they agreement.
+P1079,Rebecca Rowe,41,Male,Pediatrics,D102,2025-10-18 13:50:00,in_consultation,66,Low,Still condition Democrat character.
+P1080,Glen Levine,58,Female,General Medicine,D101,2025-10-18 16:00:00,discharged,21,High,Practice lot animal only.
+P1081,Beverly Kane,58,Female,Pediatrics,D100,2025-10-18 14:33:00,discharged,6,Low,Particularly stand catch yourself step.
+P1082,Jose Cook,29,Male,General Medicine,D101,2025-10-18 09:01:00,in_consultation,55,Low,Lay they couple.
+P1083,Jenny Lindsey,5,Female,Orthopedics,D109,2025-10-18 10:17:00,discharged,26,Low,Concern citizen agent.
+P1084,Steven Evans,11,Male,Orthopedics,D108,2025-10-18 11:53:00,in_consultation,52,Low,Election white home.
+P1085,Aaron Tucker Jr.,25,Male,Orthopedics,D109,2025-10-18 12:33:00,discharged,27,Low,Under assume resource itself.
+P1086,Joel Mendez,77,Male,Neurology,D105,2025-10-18 14:49:00,discharged,10,Low,Couple morning their.
+P1087,Matthew Monroe,16,Female,Pediatrics,D106,2025-10-18 10:40:00,discharged,30,Low,Himself fine medical.
+P1088,Sheena Jacobs,17,Female,Orthopedics,D109,2025-10-18 09:57:00,discharged,30,Low,Past experience as.
+P1089,Timothy Brown,78,Male,Pediatrics,D106,2025-10-18 08:34:00,in_consultation,99,High,Course rise risk.
+P1090,Anna Stephens,41,Female,Cardiology,D107,2025-10-18 08:09:00,in_consultation,103,Medium,Red anyone quality natural.
+P1091,Nicole Vega,5,Male,Orthopedics,D103,2025-10-18 14:47:00,waiting,126,High,Painting stay size.
+P1092,Elizabeth Villarreal,76,Male,Cardiology,D107,2025-10-18 10:34:00,discharged,8,High,Style less democratic pattern.
+P1093,Joan Barrera,27,Male,Orthopedics,D108,2025-10-18 11:00:00,in_consultation,13,Low,Read bit real.
+P1094,Shelley Hernandez,40,Male,Pediatrics,D102,2025-10-18 12:09:00,discharged,6,Medium,Democratic matter deal structure.
+P1095,Dana Berry,88,Female,Neurology,D105,2025-10-18 10:21:00,waiting,127,Low,Chance house the establish including.
+P1096,Taylor Ortiz,80,Female,Orthopedics,D108,2025-10-18 08:57:00,in_consultation,75,Low,Continue Mr make.
+P1097,Bridget Johnson,16,Male,Pediatrics,D100,2025-10-18 10:37:00,in_consultation,46,Medium,Store standard strong form.
+P1098,Richard Richardson,7,Male,General Medicine,D101,2025-10-18 08:19:00,waiting,94,Medium,Finish leg.
+P1099,Elizabeth Buchanan,3,Female,Pediatrics,D102,2025-10-18 12:37:00,discharged,8,High,Mission history.
+P1100,Scott Rodriguez,10,Female,General Medicine,D101,2025-10-18 15:32:00,discharged,17,Low,Simply budget hair tough.
+P1101,Joshua Duran,75,Female,Orthopedics,D103,2025-10-18 10:21:00,in_consultation,101,Medium,Tonight executive job over.
+P1102,Brian Mckinney,3,Female,Pediatrics,D106,2025-10-18 09:07:00,discharged,18,Medium,Position office cup.
+P1103,Cassidy Ochoa,1,Male,Cardiology,D107,2025-10-18 14:03:00,discharged,5,Medium,Land customer stand occur.
+P1104,Melissa Price,78,Male,Orthopedics,D109,2025-10-18 08:31:00,waiting,111,Low,Thus conference condition.
+P1105,Debra Thompson,48,Male,Orthopedics,D108,2025-10-18 08:13:00,discharged,28,Medium,Marriage stay.
+P1106,John Gray,11,Female,Pediatrics,D102,2025-10-18 14:13:00,waiting,118,Low,Guess themselves character.
+P1107,Andrew Steele,50,Female,General Medicine,D101,2025-10-18 11:31:00,discharged,4,Low,Employee assume and.
+P1108,Mark Schmidt,85,Female,Cardiology,D107,2025-10-18 12:42:00,waiting,153,Low,Travel paper fact ago section.
+P1109,Courtney Humphrey,37,Male,Orthopedics,D103,2025-10-18 14:42:00,waiting,146,Medium,Information itself happy.
+P1110,Stephanie Brown,39,Female,General Medicine,D101,2025-10-18 14:39:00,discharged,9,Medium,Position another account message.
+P1111,David Meyer,56,Male,Cardiology,D104,2025-10-18 10:14:00,waiting,99,Low,Sit charge research important any.
+P1112,Robin Bridges,81,Male,Pediatrics,D100,2025-10-18 11:55:00,discharged,4,Medium,Moment history partner part social.
+P1113,Daniel Hall,4,Male,Pediatrics,D100,2025-10-18 10:55:00,discharged,7,Low,Nearly station argue.
+P1114,Joseph Bruce,36,Female,Cardiology,D107,2025-10-18 14:58:00,discharged,2,Low,Business most.
+P1115,Elizabeth Lutz,86,Male,Neurology,D105,2025-10-18 11:42:00,waiting,74,Medium,Any class Democrat resource.
+P1116,Daniel Campbell,14,Male,Pediatrics,D102,2025-10-18 14:53:00,discharged,28,Low,Else officer enough program.
+P1117,Jonathan Spence,88,Male,General Medicine,D101,2025-10-18 09:29:00,discharged,3,Low,Else develop loss.
+P1118,Ashley Mcdaniel,67,Male,Pediatrics,D100,2025-10-18 11:35:00,discharged,30,Medium,Real discussion manager Mrs.
+P1119,Sherry Bird,13,Male,Cardiology,D107,2025-10-18 10:14:00,discharged,0,Low,Language training above response.
+P2120,Rohit Verma,35,Male,Orthopedics,D103,2025-10-18 21:03:02,waiting,65,Medium,Walk-in
+P2121,Rohit Verma,84,Female,Neurology,D105,2025-10-18 21:03:02,in_consultation,59,Medium,Walk-in
+P2122,Alex Parker,80,Male,Cardiology,D107,2025-10-18 21:03:06,waiting,66,High,Walk-in
+P3123,Aisha Khan,31,Male,Orthopedics,D108,2025-10-18 21:03:07,discharged,6,Low,Walk-in
+P3124,Priya Sharma,35,Male,General Medicine,D101,2025-10-18 21:03:09,waiting,61,High,Walk-in
+P3125,Maya Singh,28,Female,Pediatrics,D102,2025-10-18 21:03:12,discharged,6,Medium,Walk-in
+P3126,Rohit Verma,83,Female,Pediatrics,D100,2025-10-18 21:03:12,in_consultation,10,Low,Walk-in
+P3127,Maya Singh,15,Female,Pediatrics,D106,2025-10-18 21:03:15,waiting,65,Low,Walk-in
+P3128,Isha Patel,52,Female,Pediatrics,D106,2025-10-18 21:03:15,in_consultation,17,High,Walk-in
+P4129,Aisha Khan,58,Female,Pediatrics,D100,2025-10-18 21:03:17,waiting,63,Medium,Walk-in
+P4130,Maya Singh,64,Male,Cardiology,D107,2025-10-18 21:03:17,waiting,63,Low,Walk-in
+P4131,Liam Brown,11,Female,Pediatrics,D100,2025-10-18 21:03:18,discharged,5,High,Walk-in
+P4132,Aisha Khan,44,Female,Pediatrics,D100,2025-10-18 21:03:21,waiting,53,Low,Walk-in
+P5133,Priya Sharma,85,Male,General Medicine,D101,2025-10-18 21:03:22,discharged,2,Medium,Walk-in
+P5134,Rohit Verma,10,Male,General Medicine,D101,2025-10-18 21:03:22,waiting,52,Low,Walk-in
+P5135,Maya Singh,34,Female,Cardiology,D107,2025-10-18 21:03:24,discharged,7,Medium,Walk-in
+P5136,Priya Sharma,66,Male,Pediatrics,D106,2025-10-18 21:03:27,waiting,52,High,Walk-in
+P6137,Maya Singh,5,Female,General Medicine,D101,2025-10-18 21:03:32,waiting,44,Medium,Walk-in
+P6138,Liam Brown,36,Female,General Medicine,D101,2025-10-18 21:03:32,in_consultation,30,Low,Walk-in
+P6139,Aisha Khan,63,Male,Orthopedics,D103,2025-10-18 21:03:33,waiting,46,Low,Walk-in
+P6140,Aisha Khan,32,Male,Orthopedics,D103,2025-10-18 21:03:33,in_consultation,11,Medium,Walk-in
+P6141,Satish Kumar,71,Female,Orthopedics,D109,2025-10-18 21:03:36,in_consultation,33,Medium,Walk-in
+P6142,Alex Parker,66,Male,Cardiology,D107,2025-10-18 21:03:36,waiting,50,Low,Walk-in
+P6143,Priya Sharma,9,Female,Neurology,D105,2025-10-18 21:03:36,in_consultation,26,High,Walk-in
+P7144,Alex Parker,16,Male,General Medicine,D101,2025-10-18 21:03:37,discharged,3,Medium,Walk-in
+P7145,Maya Singh,27,Male,Cardiology,D104,2025-10-18 21:03:37,in_consultation,26,High,Walk-in
+P7146,Isha Patel,60,Male,Pediatrics,D106,2025-10-18 21:03:39,waiting,44,High,Walk-in
+P7147,Liam Brown,8,Female,General Medicine,D101,2025-10-18 21:03:42,in_consultation,1,Medium,Walk-in
+P7148,Liam Brown,6,Male,Pediatrics,D100,2025-10-18 21:03:42,waiting,40,Medium,Walk-in
+P7149,Rohit Verma,89,Female,Cardiology,D107,2025-10-18 21:03:42,waiting,38,Low,Walk-in
+P7150,Maya Singh,7,Male,Orthopedics,D103,2025-10-18 21:03:46,waiting,39,Medium,Walk-in
+P7151,Liam Brown,71,Male,Orthopedics,D109,2025-10-18 21:03:46,in_consultation,19,High,Walk-in
+P7152,Alex Parker,23,Female,Neurology,D105,2025-10-18 21:03:49,in_consultation,25,High,Walk-in
+P7153,Maya Singh,45,Female,Pediatrics,D100,2025-10-18 21:03:49,waiting,40,Medium,Walk-in
+P7154,Liam Brown,19,Female,Cardiology,D107,2025-10-18 21:03:49,discharged,7,High,Walk-in
+P7155,Priya Sharma,90,Female,Pediatrics,D106,2025-10-18 21:03:52,waiting,36,Medium,Walk-in
+P8156,Maya Singh,41,Male,Orthopedics,D103,2025-10-18 21:03:52,waiting,38,Medium,Walk-in
+P8157,Aisha Khan,80,Female,Orthopedics,D108,2025-10-18 21:03:52,in_consultation,13,Medium,Walk-in
+P8158,Isha Patel,19,Male,Orthopedics,D108,2025-10-18 21:03:58,discharged,5,High,Walk-in
+P8159,Liam Brown,68,Female,Cardiology,D107,2025-10-18 21:03:58,waiting,37,High,Walk-in
+P8160,Liam Brown,25,Male,Cardiology,D107,2025-10-18 21:03:58,in_consultation,7,Low,Walk-in
+P8161,Rohit Verma,58,Female,Neurology,D105,2025-10-18 21:04:01,waiting,38,High,Walk-in
+P8162,Maya Singh,42,Male,Orthopedics,D108,2025-10-18 21:04:01,waiting,33,Medium,Walk-in
+P8163,Alex Parker,2,Male,Neurology,D105,2025-10-18 21:04:04,in_consultation,17,High,Walk-in
+P8164,Satish Kumar,43,Male,Pediatrics,D106,2025-10-18 21:04:10,in_consultation,0,Low,Walk-in
+P8165,Satish Kumar,4,Male,Neurology,D105,2025-10-18 21:04:10,waiting,28,High,Walk-in
+P8166,Aisha Khan,24,Female,Pediatrics,D106,2025-10-18 21:04:10,discharged,9,Medium,Walk-in
+P9167,Maya Singh,56,Male,Cardiology,D104,2025-10-18 21:04:12,waiting,29,Medium,Walk-in
+P9168,Aisha Khan,41,Male,Pediatrics,D106,2025-10-18 21:04:12,waiting,25,Low,Walk-in
+P9169,Satish Kumar,8,Female,Pediatrics,D100,2025-10-18 21:04:13,waiting,21,Medium,Walk-in
+P9170,Aisha Khan,74,Female,Orthopedics,D109,2025-10-18 21:04:13,waiting,29,Low,Walk-in
+P9171,Isha Patel,88,Male,Pediatrics,D102,2025-10-18 21:04:13,in_consultation,4,Low,Walk-in
+P9172,Satish Kumar,88,Female,Orthopedics,D103,2025-10-18 21:04:16,waiting,27,Medium,Walk-in
+P9173,Aisha Khan,49,Male,Pediatrics,D106,2025-10-18 21:04:16,in_consultation,1,High,Walk-in
+P9174,Alex Parker,56,Female,Orthopedics,D103,2025-10-18 21:04:19,in_consultation,14,High,Walk-in
+P9175,Maya Singh,14,Male,Neurology,D105,2025-10-18 21:04:19,in_consultation,17,Low,Walk-in
+P9176,Liam Brown,19,Male,General Medicine,D101,2025-10-18 21:04:19,in_consultation,13,High,Walk-in
+P9177,Rohit Verma,70,Female,Cardiology,D104,2025-10-18 21:04:22,waiting,19,Medium,Walk-in
+P10178,Aisha Khan,78,Female,Cardiology,D104,2025-10-18 21:04:22,waiting,20,High,Walk-in
+P10179,Satish Kumar,20,Male,Pediatrics,D100,2025-10-18 21:04:25,waiting,18,High,Walk-in
+P10180,Aisha Khan,11,Male,Neurology,D105,2025-10-18 21:04:25,waiting,19,Low,Walk-in
+P11181,Priya Sharma,44,Male,Pediatrics,D100,2025-10-18 21:04:27,waiting,24,Medium,Walk-in
+P11182,Isha Patel,49,Female,General Medicine,D101,2025-10-18 21:04:28,waiting,16,Medium,Walk-in
+P12183,Alex Parker,3,Female,Cardiology,D107,2025-10-18 21:04:32,in_consultation,10,Medium,Walk-in
+P12184,Alex Parker,46,Male,Pediatrics,D102,2025-10-18 21:04:34,waiting,15,High,Walk-in
+P12185,Rohit Verma,1,Male,Pediatrics,D100,2025-10-18 21:04:34,waiting,14,High,Walk-in
+P12186,Aisha Khan,88,Male,Pediatrics,D106,2025-10-18 21:04:37,waiting,18,High,Walk-in
+P12187,Liam Brown,58,Female,Cardiology,D104,2025-10-18 21:04:41,waiting,16,High,Walk-in
+P12188,Rohit Verma,6,Female,Pediatrics,D100,2025-10-18 21:04:44,waiting,7,Medium,Walk-in
+P12189,Alex Parker,35,Male,Neurology,D105,2025-10-18 21:04:44,waiting,8,Low,Walk-in
+P12190,Satish Kumar,77,Male,General Medicine,D101,2025-10-18 21:04:44,waiting,8,Medium,Walk-in
+P12191,Aisha Khan,87,Female,General Medicine,D101,2025-10-18 21:04:50,waiting,10,High,Walk-in
+P12192,Maya Singh,65,Male,Pediatrics,D100,2025-10-18 21:04:50,waiting,5,High,Walk-in
+P12193,Aisha Khan,73,Female,General Medicine,D101,2025-10-18 21:04:50,waiting,11,Low,Walk-in

@@ -1,0 +1,11 @@
+doctor_id,name,dept,shift_start,shift_end,is_on_duty
+D100,George Sanford,Pediatrics,08:00,16:00,False
+D101,Tammy Mayer,General Medicine,08:00,16:00,False
+D102,Dr. Tanya Scott MD,Pediatrics,08:00,16:00,True
+D103,Daniel Price,Orthopedics,08:00,16:00,False
+D104,Steven Mccoy,Cardiology,08:00,16:00,True
+D105,Jon Arnold,Neurology,08:00,16:00,False
+D106,Kyle Smith DDS,Pediatrics,08:00,16:00,False
+D107,Douglas Chandler,Cardiology,08:00,16:00,False
+D108,Ryan Lamb,Orthopedics,08:00,16:00,True
+D109,Kyle Everett,Orthopedics,08:00,16:00,False
